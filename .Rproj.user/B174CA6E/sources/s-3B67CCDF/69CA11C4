@@ -3,7 +3,7 @@
     "path": "~/R_Project/Pocket_book/_bookdown.yml",
     "project_path": "_bookdown.yml",
     "type": "yaml",
-    "hash": "0",
+    "hash": "3735230014",
     "contents": "",
     "dirty": false,
     "created": 1636039473534.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "6,22",
+        "cursorPosition": "7,18",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1636780374,
+    "lastKnownWriteTime": 1637890414,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1636780374625,
+    "last_content_update": 1637890414460,
     "read_only": false,
     "read_only_alternatives": []
 }
