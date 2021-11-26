@@ -32,3 +32,8 @@ knitr::write_bib(c(
   .packages(), 'bookdown', 'knitr', 'rmarkdown'
 ), 'packages.bib')
 ```
+
+```{bash}
+cp _book/index.html .
+```
+
