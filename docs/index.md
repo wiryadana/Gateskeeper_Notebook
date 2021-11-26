@@ -1,7 +1,7 @@
 --- 
 title: "The Gatekeeper's Notebook"
 author: "Kadek Adit Wiryadana"
-date: "2021-11-26"
+date: "2021-11-27"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib, packages.bib]

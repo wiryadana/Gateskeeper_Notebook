@@ -1,13 +1,72 @@
 h1:informasi-obat-esensial-ugd Informasi Obat Esensial UGD
 h2:general General
+h3:sistem-perhitungan-obat-parenteral Sistem Perhitungan Obat Parenteral
 h2:penyakit-dalam Penyakit Dalam
+h3:parenteral Parenteral
+h4:transfusi-darah Transfusi Darah
+h5:wb WB
+h5:prc PRC
+h5:ffp FFP
+h5:tc TC
+h4:albumin Albumin
+h4:deksametason Deksametason
+h4:insulin Insulin
+h5:drip-kad-hhs DRIP KAD HHS
+h5:regulasi-preoperasi Regulasi Preoperasi
+h5:hiperkalemia Hiperkalemia
+h5:dosis-maintenance Dosis Maintenance
+h4:kcl KCL
+h4:natrium-bikarbonat Natrium Bikarbonat
+h3:oral Oral
 h2:paru Paru
+h3:parenteral-1 Parenteral
+h4:aminofilin Aminofilin
+h3:oral-1 Oral
 h2:pediatri Pediatri
 h2:kardiovaskular Kardiovaskular
+h3:parenteral-2 Parenteral
+h4:dopamin Dopamin
+h4:dobutamin Dobutamin
+h4:norepinefrinvascon Norepinefrin/Vascon
+h4:nicardipin Nicardipin
+h4:isdn ISDN
+h4:nitrogliserin Nitrogliserin
+h4:furosemid Furosemid
+h4:heparin Heparin
+h4:lmwh LMWH
+h4:digoxin Digoxin
+h4:adrenalinepinefrin Adrenalin/Epinefrin
+h4:sulfas-atropin Sulfas Atropin
+h4:amiodaron Amiodaron
+h4:lidokain Lidokain
+h4:calcium-glukonas Calcium Glukonas
+h3:oral-nitrogliserin Oral Nitrogliserin
 h2:bedah Bedah
 h2:anestesi Anestesi
-h2:neurologi Neurologi
+h3:analgetik Analgetik
+h4:morfin Morfin
+h4:petidin Petidin
+h4:fentanil Fentanil
+h4:ketorolac Ketorolac
+h4:tramadol Tramadol
+h3:sedatif Sedatif
+h4:diazepam Diazepam
+h4:midazolam Midazolam
+h4:propofol Propofol
+h3:muscle-relaxant Muscle Relaxant
+h2:neurologi-neurosurgery Neurologi & Neurosurgery
+h3:parenteral-3 Parenteral
+h4:manitol Manitol
+h4:nacl-3 NaCl 3%
+h4:fenitoin Fenitoin
+h4:fenobarbital Fenobarbital
+h4:citicolin Citicolin
+h4:piracetam Piracetam
+h3:oral-2 Oral
 h2:obstetri-gineklogi Obstetri & Gineklogi
+h3:parenteral-4 Parenteral
+h4:mgso4 MgSO4
+h3:oral-3 Oral
 h2:dermatologi-venereologi Dermatologi & Venereologi
 h2:tht THT
 h2:mata Mata
