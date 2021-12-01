@@ -7,18 +7,19 @@ Pada bagian ini akan diisi dengan obat-obat rutin yang sering digunakan dalam pe
 ### Sistem Perhitungan Obat Parenteral
 Rumur Perhitungan Laju Syringe Pump
 
-\begin{equation}
+**Rumus 1**
 
-\ Rumus 1
+\begin{equation}
 \\
 \frac{Dosis \times BB \times 60}{konsentrasi (mikrogram/cc)}
 \\
-\\
-\ Rumus 2
-\\
-\frac{Dosis \times BB \times 60 \times Penganceran(50 cc)}{Jumlah_obat (mcg))}
+\end{equation}
 
+**Rumus 2**
 
+\begin{equation}
+\\
+\frac{Dosis \times BB \times 60 \times Pengenceran(50 cc)}{Jumlah_obat (mcg)}
 \end{equation}
 
 Contoh Kasus:
@@ -28,23 +29,14 @@ Contoh Kasus:
 * Sedaan Vascon 4 mg per vial.
 
 \begin{equation}
-
 \frac{0,1 mcg/kg/min \times 50 kg \times 60}{4000 mcg/50cc}
-
 \\
-
 \frac{5 mcg/min \times 60}{80mcg/cc}
-
 \\ 
-
 \frac{300 mcg/jam}{80 mcg/cc}
-
 \\ 
-
 \ 3,75 cc/jam
-
 \\
-
 \end{equation}
 
 ___
@@ -105,7 +97,7 @@ ___
 |----------|-------|------------|
 | Rendah | 1-5 mcg/kgBB/menit | Reseptor dopaminergik terutama di ginjal, mesenterium dan pembuluh koroner|
 |Sedang | 5-10 mcg/kgBB/Menit | Meningkatnya tekanan sistolik dan tekanan nadi tanpa mengubah tekanan diastolik|
-|Tinggi | 10 - 20 mcg/kgBB?menit | Vasopressor|
+|Tinggi | 10 - 20 mcg/kgBB/menit | Vasopressor|
 
 Kontraindikasi:
 
@@ -120,7 +112,7 @@ Kontraindikasi:
 | kategori | Dosis | Keterangan |
 |----------|-------|------------|
 | rendah | 2-5 mcg/kgBB/menit | |
-|Sedang | 5-10 mcg/kgBB/Menit| |
+|Sedang | 5-10 mcg/kgBB/Menit| | |
 |Tinggi | 10-20 mcg/kgBB/menit | |
 
 Kontraindikasi:
@@ -134,7 +126,7 @@ Sediaan 1 ampul = 4 mg
 
 | Kategori | Dosis | Keterangan |
 |----------|-------|------------|
-| | 0,1 - 0,5 mcg/kgBB/menit |
+| | 0,1 - 0,5 mcg/kgBB/menit | |
 
 #### Nicardipin
 * Sediaan: 10 mg/ampul

@@ -1,0 +1,259 @@
+\contentsline {chapter}{\numberline {1}Sepatah Kata}{7}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Panduan}{7}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Narahubung}{7}{section.1.2}%
+\contentsline {chapter}{\numberline {2}SMF Dokter Umum}{9}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Struktur dan Anggota SMF Dokter Umum}{9}{section.2.1}%
+\contentsline {subsection}{\numberline {2.1.1}Koordinator (2022)}{9}{subsection.2.1.1}%
+\contentsline {subsection}{\numberline {2.1.2}Pelaksana Tugas Sementara Koordinator Dokter Umum (2021)}{9}{subsection.2.1.2}%
+\contentsline {subsection}{\numberline {2.1.3}Anggota}{9}{subsection.2.1.3}%
+\contentsline {chapter}{\numberline {3}Peraturan Kerja}{11}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Jam Kerja}{11}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Poin Kerja}{11}{section.3.2}%
+\contentsline {subsection}{khusus Fultime}{11}{section*.2}%
+\contentsline {subsection}{Poin Kerja Part-time}{11}{section*.3}%
+\contentsline {section}{\numberline {3.3}Pakaian Kerja}{12}{section.3.3}%
+\contentsline {chapter}{\numberline {4}Alur Kerja}{13}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Pasien Baru UGD}{13}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Pasien rujukan Poli}{13}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Pasien Pre-OP}{13}{section.4.3}%
+\contentsline {chapter}{\numberline {5}Catatan Penting}{15}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Screening COVID}{15}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Kronologi}{15}{section.5.2}%
+\contentsline {section}{\numberline {5.3}Trauma Kepala}{15}{section.5.3}%
+\contentsline {section}{\numberline {5.4}Kecelakaan}{16}{section.5.4}%
+\contentsline {subsection}{\numberline {5.4.1}Kecelakaan Lalu Lintas (KLL)}{16}{subsection.5.4.1}%
+\contentsline {subsubsection}{\numberline {5.4.1.1}Administratif:}{16}{subsubsection.5.4.1.1}%
+\contentsline {subsection}{\numberline {5.4.2}Kecelakaan Kerja (KK)}{16}{subsection.5.4.2}%
+\contentsline {subsubsection}{\numberline {5.4.2.1}Medikolegal}{16}{subsubsection.5.4.2.1}%
+\contentsline {chapter}{\numberline {6}Konsultasi}{17}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Pedoman Umum Konsultasi}{17}{section.6.1}%
+\contentsline {subsection}{\numberline {6.1.1}Konsultasi via telpon}{17}{subsection.6.1.1}%
+\contentsline {subsection}{\numberline {6.1.2}Konsultasi dan Visite Spesialis di UGD}{17}{subsection.6.1.2}%
+\contentsline {subsection}{\numberline {6.1.3}Menghubungi Dokter Spesialis}{18}{subsection.6.1.3}%
+\contentsline {subsection}{\numberline {6.1.4}Dokter Spesialis yang bertanggung jawab atas pasien}{18}{subsection.6.1.4}%
+\contentsline {subsection}{\numberline {6.1.5}Prinsip Format Pelaporan}{18}{subsection.6.1.5}%
+\contentsline {subsection}{\numberline {6.1.6}Contoh Format Umum}{18}{subsection.6.1.6}%
+\contentsline {section}{\numberline {6.2}Konsultasi Bidang Penyakit Dalam}{20}{section.6.2}%
+\contentsline {subsection}{\numberline {6.2.1}Pedoman Umum Interna}{20}{subsection.6.2.1}%
+\contentsline {subsection}{\numberline {6.2.2}Ketentuan Khusus Dokter Spesialis}{20}{subsection.6.2.2}%
+\contentsline {section}{\numberline {6.3}Konsultasi Bidang Penyakit Paru}{20}{section.6.3}%
+\contentsline {subsection}{\numberline {6.3.1}Pedoman Tambahan Paru}{20}{subsection.6.3.1}%
+\contentsline {section}{\numberline {6.4}Konsultasi Bidang Penyakit Saraf}{21}{section.6.4}%
+\contentsline {subsection}{\numberline {6.4.1}Pedoman Umum}{21}{subsection.6.4.1}%
+\contentsline {subsection}{\numberline {6.4.2}Contoh Format}{21}{subsection.6.4.2}%
+\contentsline {subsection}{\numberline {6.4.3}Ketentuan Khusus Dokter Spesialis}{21}{subsection.6.4.3}%
+\contentsline {section}{\numberline {6.5}Konsultasi Bidang Penyakit Anak}{21}{section.6.5}%
+\contentsline {subsection}{\numberline {6.5.1}Pedoman Umum}{22}{subsection.6.5.1}%
+\contentsline {subsection}{\numberline {6.5.2}Contoh Format}{22}{subsection.6.5.2}%
+\contentsline {section}{\numberline {6.6}Konsultasi Bidang Penyakit Ortopedi}{22}{section.6.6}%
+\contentsline {subsection}{\numberline {6.6.1}Pedoman Umum}{22}{subsection.6.6.1}%
+\contentsline {subsection}{\numberline {6.6.2}Contoh Format}{22}{subsection.6.6.2}%
+\contentsline {section}{\numberline {6.7}Konsultasi Bidang Penyakit Bedah Umum, Digestif dan Onkologi}{22}{section.6.7}%
+\contentsline {subsubsection}{\numberline {6.7.0.1}Bedah Umum}{22}{subsubsection.6.7.0.1}%
+\contentsline {subsubsection}{\numberline {6.7.0.2}Bedah Digestif}{22}{subsubsection.6.7.0.2}%
+\contentsline {subsubsection}{\numberline {6.7.0.3}Bedah Onkologi}{22}{subsubsection.6.7.0.3}%
+\contentsline {subsection}{\numberline {6.7.1}Pedoman Umum}{22}{subsection.6.7.1}%
+\contentsline {subsection}{\numberline {6.7.2}Contoh Format}{22}{subsection.6.7.2}%
+\contentsline {subsection}{\numberline {6.7.3}Ketentuan Khusus Dokter Spesialis}{22}{subsection.6.7.3}%
+\contentsline {subsubsection}{\numberline {6.7.3.1}dr. Oka Sp.B}{22}{subsubsection.6.7.3.1}%
+\contentsline {section}{\numberline {6.8}Konsultasi Bidang Penyakit Bedah Urologi}{23}{section.6.8}%
+\contentsline {subsection}{\numberline {6.8.1}Pedoman Umum}{23}{subsection.6.8.1}%
+\contentsline {subsection}{\numberline {6.8.2}Contoh Format}{23}{subsection.6.8.2}%
+\contentsline {section}{\numberline {6.9}Konsultasi Bidang Anestesi dan Terapi Intensif}{23}{section.6.9}%
+\contentsline {subsection}{\numberline {6.9.1}Pedoman Umum}{23}{subsection.6.9.1}%
+\contentsline {subsection}{\numberline {6.9.2}Contoh Format}{23}{subsection.6.9.2}%
+\contentsline {subsection}{\numberline {6.9.3}Ketentuan Khusus Dokter Spesialis}{23}{subsection.6.9.3}%
+\contentsline {section}{\numberline {6.10}Konsultasi Bidang Telinga, Hidung dan Tenggorokan (THT)}{24}{section.6.10}%
+\contentsline {subsection}{\numberline {6.10.1}Pedoman Umum}{24}{subsection.6.10.1}%
+\contentsline {subsection}{\numberline {6.10.2}Contoh Format}{24}{subsection.6.10.2}%
+\contentsline {section}{\numberline {6.11}Konsultasi Bidang Obstetri dan Ginekologi}{24}{section.6.11}%
+\contentsline {subsection}{\numberline {6.11.1}Pedoman Umum}{24}{subsection.6.11.1}%
+\contentsline {subsection}{\numberline {6.11.2}Contoh Format}{24}{subsection.6.11.2}%
+\contentsline {section}{\numberline {6.12}Konsultasi Bidang Penyakit Mata}{24}{section.6.12}%
+\contentsline {subsection}{\numberline {6.12.1}Pedoman Umum}{24}{subsection.6.12.1}%
+\contentsline {subsection}{\numberline {6.12.2}Contoh Format}{24}{subsection.6.12.2}%
+\contentsline {section}{\numberline {6.13}Konsultasi Bidang Penyakit Kulit dan Kelamin (dermatovenereologi)}{24}{section.6.13}%
+\contentsline {subsection}{\numberline {6.13.1}Pedoman Umum}{25}{subsection.6.13.1}%
+\contentsline {subsection}{\numberline {6.13.2}Contoh Format}{25}{subsection.6.13.2}%
+\contentsline {section}{\numberline {6.14}Penanganan Kasus Jiwa (Psikiatri)}{25}{section.6.14}%
+\contentsline {section}{\numberline {6.15}Penanganan Kasus Forensik dan Medikolegal}{25}{section.6.15}%
+\contentsline {subsection}{\numberline {6.15.1}Pedoman Umum}{25}{subsection.6.15.1}%
+\contentsline {subsection}{\numberline {6.15.2}Contoh Format}{25}{subsection.6.15.2}%
+\contentsline {section}{\numberline {6.16}Konsultasi Pembacaan Radiologi CITO}{25}{section.6.16}%
+\contentsline {subsection}{\numberline {6.16.1}Pedoman Umum}{25}{subsection.6.16.1}%
+\contentsline {subsection}{\numberline {6.16.2}Contoh Format}{25}{subsection.6.16.2}%
+\contentsline {section}{\numberline {6.17}Konsultasi Manajemen dan Tim JKN}{25}{section.6.17}%
+\contentsline {chapter}{\numberline {7}Poli Umum, Visite dan Rujukan}{27}{chapter.7}%
+\contentsline {chapter}{\numberline {8}Alat Perhitungan Sederhana}{29}{chapter.8}%
+\contentsline {section}{\numberline {8.1}General}{29}{section.8.1}%
+\contentsline {section}{\numberline {8.2}Penyakit Dalam}{29}{section.8.2}%
+\contentsline {section}{\numberline {8.3}Pediatri}{29}{section.8.3}%
+\contentsline {section}{\numberline {8.4}Kardiovaskular}{29}{section.8.4}%
+\contentsline {section}{\numberline {8.5}Bedah}{29}{section.8.5}%
+\contentsline {section}{\numberline {8.6}Anestesi}{30}{section.8.6}%
+\contentsline {section}{\numberline {8.7}Neurologi}{30}{section.8.7}%
+\contentsline {section}{\numberline {8.8}Obstetri \& Gineklogi}{30}{section.8.8}%
+\contentsline {chapter}{\numberline {9}Terapi Tipikal di UGD}{31}{chapter.9}%
+\contentsline {section}{\numberline {9.1}UGD - Rawat Jalan (General Practitioner)}{31}{section.9.1}%
+\contentsline {section}{\numberline {9.2}Penyakit Dalam}{32}{section.9.2}%
+\contentsline {subsection}{\numberline {9.2.1}Endokrinologi}{32}{subsection.9.2.1}%
+\contentsline {subsubsection}{\numberline {9.2.1.1}Hiperglikemia preoperasi}{32}{subsubsection.9.2.1.1}%
+\contentsline {subsubsection}{\numberline {9.2.1.2}Ketoasidosis Diabetikum (KAD)}{32}{subsubsection.9.2.1.2}%
+\contentsline {subsubsection}{\numberline {9.2.1.3}Hyperglicemic Hyperosmolar State}{32}{subsubsection.9.2.1.3}%
+\contentsline {subsection}{\numberline {9.2.2}Nefrologi}{32}{subsection.9.2.2}%
+\contentsline {subsubsection}{\numberline {9.2.2.1}Hiperkalemia}{32}{subsubsection.9.2.2.1}%
+\contentsline {subsubsection}{\numberline {9.2.2.2}Hipokalemia}{32}{subsubsection.9.2.2.2}%
+\contentsline {subsubsection}{\numberline {9.2.2.3}Hipernatremia}{32}{subsubsection.9.2.2.3}%
+\contentsline {subsubsection}{\numberline {9.2.2.4}Hiponatremia}{32}{subsubsection.9.2.2.4}%
+\contentsline {subsection}{\numberline {9.2.3}Infeksi}{32}{subsection.9.2.3}%
+\contentsline {subsection}{\numberline {9.2.4}Pulmonologi}{32}{subsection.9.2.4}%
+\contentsline {subsection}{\numberline {9.2.5}Gastroenterologi \& Hepatologi}{32}{subsection.9.2.5}%
+\contentsline {subsection}{\numberline {9.2.6}Kardiovaskular}{32}{subsection.9.2.6}%
+\contentsline {subsection}{\numberline {9.2.7}Imunologi}{32}{subsection.9.2.7}%
+\contentsline {section}{\numberline {9.3}Paru}{33}{section.9.3}%
+\contentsline {subsection}{\numberline {9.3.1}Infeksi}{33}{subsection.9.3.1}%
+\contentsline {subsubsection}{\numberline {9.3.1.1}Tuberculosis}{33}{subsubsection.9.3.1.1}%
+\contentsline {subsubsection}{\numberline {9.3.1.2}COVID-19}{33}{subsubsection.9.3.1.2}%
+\contentsline {subsubsection}{\numberline {9.3.1.3}Pneumonia Bacterial}{33}{subsubsection.9.3.1.3}%
+\contentsline {subsection}{\numberline {9.3.2}Obstruksi}{33}{subsection.9.3.2}%
+\contentsline {subsubsection}{\numberline {9.3.2.1}PPOK}{33}{subsubsection.9.3.2.1}%
+\contentsline {subsubsection}{\numberline {9.3.2.2}Asthma}{33}{subsubsection.9.3.2.2}%
+\contentsline {subsection}{\numberline {9.3.3}Malignancy}{33}{subsection.9.3.3}%
+\contentsline {subsection}{\numberline {9.3.4}Lain-lain}{33}{subsection.9.3.4}%
+\contentsline {subsubsection}{\numberline {9.3.4.1}Efusi Pleura}{33}{subsubsection.9.3.4.1}%
+\contentsline {section}{\numberline {9.4}Pediatri}{33}{section.9.4}%
+\contentsline {subsection}{\numberline {9.4.1}Neonatologi}{33}{subsection.9.4.1}%
+\contentsline {subsection}{\numberline {9.4.2}Infeksi}{33}{subsection.9.4.2}%
+\contentsline {subsection}{\numberline {9.4.3}Pulmonologi}{33}{subsection.9.4.3}%
+\contentsline {subsection}{\numberline {9.4.4}Gastroenterologi \& Hepatologi}{33}{subsection.9.4.4}%
+\contentsline {section}{\numberline {9.5}Kardiovaskular}{33}{section.9.5}%
+\contentsline {subsection}{\numberline {9.5.1}Pre-operative}{33}{subsection.9.5.1}%
+\contentsline {subsection}{\numberline {9.5.2}Iskemia}{33}{subsection.9.5.2}%
+\contentsline {subsection}{\numberline {9.5.3}Disritmia/Aritmia}{33}{subsection.9.5.3}%
+\contentsline {subsection}{\numberline {9.5.4}Heart Failure}{33}{subsection.9.5.4}%
+\contentsline {subsection}{\numberline {9.5.5}Vaskular Perifer}{33}{subsection.9.5.5}%
+\contentsline {section}{\numberline {9.6}Bedah Umum}{34}{section.9.6}%
+\contentsline {section}{\numberline {9.7}Bedah Digestif}{34}{section.9.7}%
+\contentsline {subsection}{\numberline {9.7.1}Obstruksi}{34}{subsection.9.7.1}%
+\contentsline {section}{\numberline {9.8}Bedah Urologi}{34}{section.9.8}%
+\contentsline {subsection}{\numberline {9.8.1}Infeksi}{34}{subsection.9.8.1}%
+\contentsline {subsection}{\numberline {9.8.2}Obstruksi}{34}{subsection.9.8.2}%
+\contentsline {subsection}{\numberline {9.8.3}Malignancy}{34}{subsection.9.8.3}%
+\contentsline {section}{\numberline {9.9}Bedah Ortopedi}{34}{section.9.9}%
+\contentsline {subsection}{\numberline {9.9.1}Preoperative}{34}{subsection.9.9.1}%
+\contentsline {subsection}{\numberline {9.9.2}Trauma}{34}{subsection.9.9.2}%
+\contentsline {subsection}{\numberline {9.9.3}Malignancy}{34}{subsection.9.9.3}%
+\contentsline {section}{\numberline {9.10}Anestesi}{34}{section.9.10}%
+\contentsline {subsection}{\numberline {9.10.1}Preoperative}{34}{subsection.9.10.1}%
+\contentsline {subsection}{\numberline {9.10.2}Critical Care}{34}{subsection.9.10.2}%
+\contentsline {section}{\numberline {9.11}Neurologi \& Bedah Saraf}{35}{section.9.11}%
+\contentsline {subsection}{\numberline {9.11.1}Vaskular}{35}{subsection.9.11.1}%
+\contentsline {subsection}{\numberline {9.11.2}Pain}{35}{subsection.9.11.2}%
+\contentsline {subsection}{\numberline {9.11.3}Trauma}{35}{subsection.9.11.3}%
+\contentsline {subsection}{\numberline {9.11.4}Malignancy}{35}{subsection.9.11.4}%
+\contentsline {subsection}{\numberline {9.11.5}Degenerative}{35}{subsection.9.11.5}%
+\contentsline {section}{\numberline {9.12}Obstetri \& Gineklogi}{35}{section.9.12}%
+\contentsline {subsection}{\numberline {9.12.1}Obstetri}{35}{subsection.9.12.1}%
+\contentsline {subsection}{\numberline {9.12.2}Ginekologi}{35}{subsection.9.12.2}%
+\contentsline {section}{\numberline {9.13}Dermatologi \& Venereologi}{35}{section.9.13}%
+\contentsline {subsection}{\numberline {9.13.1}Psoriasis}{35}{subsection.9.13.1}%
+\contentsline {subsection}{\numberline {9.13.2}Alergi}{35}{subsection.9.13.2}%
+\contentsline {section}{\numberline {9.14}THT}{35}{section.9.14}%
+\contentsline {subsection}{\numberline {9.14.1}Preoperaitve}{35}{subsection.9.14.1}%
+\contentsline {subsection}{\numberline {9.14.2}Corpus Alienum}{35}{subsection.9.14.2}%
+\contentsline {subsection}{\numberline {9.14.3}Infeksi}{35}{subsection.9.14.3}%
+\contentsline {subsection}{\numberline {9.14.4}Tumor}{35}{subsection.9.14.4}%
+\contentsline {section}{\numberline {9.15}Mata}{36}{section.9.15}%
+\contentsline {subsection}{\numberline {9.15.1}Preoperative}{36}{subsection.9.15.1}%
+\contentsline {subsection}{\numberline {9.15.2}Infeksi}{36}{subsection.9.15.2}%
+\contentsline {subsection}{\numberline {9.15.3}Corpus Alienum}{36}{subsection.9.15.3}%
+\contentsline {subsection}{\numberline {9.15.4}Trauma}{36}{subsection.9.15.4}%
+\contentsline {section}{\numberline {9.16}Psikiatri}{36}{section.9.16}%
+\contentsline {subsection}{\numberline {9.16.1}Raptus (mengamuk)}{36}{subsection.9.16.1}%
+\contentsline {chapter}{\numberline {10}Informasi Obat Esensial UGD}{37}{chapter.10}%
+\contentsline {section}{\numberline {10.1}General}{37}{section.10.1}%
+\contentsline {subsection}{\numberline {10.1.1}Sistem Perhitungan Obat Parenteral}{37}{subsection.10.1.1}%
+\contentsline {section}{\numberline {10.2}Penyakit Dalam}{38}{section.10.2}%
+\contentsline {subsection}{\numberline {10.2.1}Parenteral}{38}{subsection.10.2.1}%
+\contentsline {subsubsection}{\numberline {10.2.1.1}Transfusi Darah}{38}{subsubsection.10.2.1.1}%
+\contentsline {paragraph}{\numberline {10.2.1.1.1}WB}{38}{paragraph.10.2.1.1.1}%
+\contentsline {paragraph}{\numberline {10.2.1.1.2}PRC}{38}{paragraph.10.2.1.1.2}%
+\contentsline {paragraph}{\numberline {10.2.1.1.3}FFP}{38}{paragraph.10.2.1.1.3}%
+\contentsline {paragraph}{\numberline {10.2.1.1.4}TC}{38}{paragraph.10.2.1.1.4}%
+\contentsline {subsubsection}{\numberline {10.2.1.2}Albumin}{38}{subsubsection.10.2.1.2}%
+\contentsline {subsubsection}{\numberline {10.2.1.3}Deksametason}{38}{subsubsection.10.2.1.3}%
+\contentsline {subsubsection}{\numberline {10.2.1.4}Insulin}{38}{subsubsection.10.2.1.4}%
+\contentsline {paragraph}{\numberline {10.2.1.4.1}DRIP KAD HHS}{38}{paragraph.10.2.1.4.1}%
+\contentsline {paragraph}{\numberline {10.2.1.4.2}Regulasi Preoperasi}{38}{paragraph.10.2.1.4.2}%
+\contentsline {paragraph}{\numberline {10.2.1.4.3}Hiperkalemia}{38}{paragraph.10.2.1.4.3}%
+\contentsline {paragraph}{\numberline {10.2.1.4.4}Dosis Maintenance}{38}{paragraph.10.2.1.4.4}%
+\contentsline {subsubsection}{\numberline {10.2.1.5}KCL}{38}{subsubsection.10.2.1.5}%
+\contentsline {subsubsection}{\numberline {10.2.1.6}Natrium Bikarbonat}{38}{subsubsection.10.2.1.6}%
+\contentsline {subsection}{\numberline {10.2.2}Oral}{38}{subsection.10.2.2}%
+\contentsline {section}{\numberline {10.3}Paru}{39}{section.10.3}%
+\contentsline {subsection}{\numberline {10.3.1}Parenteral}{39}{subsection.10.3.1}%
+\contentsline {subsubsection}{\numberline {10.3.1.1}Aminofilin}{39}{subsubsection.10.3.1.1}%
+\contentsline {subsection}{\numberline {10.3.2}Oral}{39}{subsection.10.3.2}%
+\contentsline {section}{\numberline {10.4}Pediatri}{39}{section.10.4}%
+\contentsline {section}{\numberline {10.5}Kardiovaskular}{39}{section.10.5}%
+\contentsline {subsection}{\numberline {10.5.1}Parenteral}{39}{subsection.10.5.1}%
+\contentsline {subsubsection}{\numberline {10.5.1.1}Dopamin}{39}{subsubsection.10.5.1.1}%
+\contentsline {subsubsection}{\numberline {10.5.1.2}Dobutamin}{39}{subsubsection.10.5.1.2}%
+\contentsline {subsubsection}{\numberline {10.5.1.3}Norepinefrin/Vascon}{40}{subsubsection.10.5.1.3}%
+\contentsline {subsubsection}{\numberline {10.5.1.4}Nicardipin}{40}{subsubsection.10.5.1.4}%
+\contentsline {subsubsection}{\numberline {10.5.1.5}ISDN}{40}{subsubsection.10.5.1.5}%
+\contentsline {subsubsection}{\numberline {10.5.1.6}Nitrogliserin}{40}{subsubsection.10.5.1.6}%
+\contentsline {subsubsection}{\numberline {10.5.1.7}Furosemid}{40}{subsubsection.10.5.1.7}%
+\contentsline {subsubsection}{\numberline {10.5.1.8}Heparin}{40}{subsubsection.10.5.1.8}%
+\contentsline {subsubsection}{\numberline {10.5.1.9}LMWH}{41}{subsubsection.10.5.1.9}%
+\contentsline {subsubsection}{\numberline {10.5.1.10}Digoxin}{41}{subsubsection.10.5.1.10}%
+\contentsline {subsubsection}{\numberline {10.5.1.11}Adrenalin/Epinefrin}{41}{subsubsection.10.5.1.11}%
+\contentsline {subsubsection}{\numberline {10.5.1.12}Sulfas Atropin}{41}{subsubsection.10.5.1.12}%
+\contentsline {subsubsection}{\numberline {10.5.1.13}Amiodaron}{41}{subsubsection.10.5.1.13}%
+\contentsline {subsubsection}{\numberline {10.5.1.14}Lidokain}{41}{subsubsection.10.5.1.14}%
+\contentsline {subsubsection}{\numberline {10.5.1.15}Calcium Glukonas}{41}{subsubsection.10.5.1.15}%
+\contentsline {subsection}{\numberline {10.5.2}Oral Nitrogliserin}{41}{subsection.10.5.2}%
+\contentsline {section}{\numberline {10.6}Bedah}{41}{section.10.6}%
+\contentsline {section}{\numberline {10.7}Anestesi}{41}{section.10.7}%
+\contentsline {subsection}{\numberline {10.7.1}Analgetik}{41}{subsection.10.7.1}%
+\contentsline {subsubsection}{\numberline {10.7.1.1}Morfin}{41}{subsubsection.10.7.1.1}%
+\contentsline {subsubsection}{\numberline {10.7.1.2}Petidin}{41}{subsubsection.10.7.1.2}%
+\contentsline {subsubsection}{\numberline {10.7.1.3}Fentanil}{41}{subsubsection.10.7.1.3}%
+\contentsline {subsubsection}{\numberline {10.7.1.4}Ketorolac}{41}{subsubsection.10.7.1.4}%
+\contentsline {subsubsection}{\numberline {10.7.1.5}Tramadol}{41}{subsubsection.10.7.1.5}%
+\contentsline {subsection}{\numberline {10.7.2}Sedatif}{41}{subsection.10.7.2}%
+\contentsline {subsubsection}{\numberline {10.7.2.1}Diazepam}{41}{subsubsection.10.7.2.1}%
+\contentsline {subsubsection}{\numberline {10.7.2.2}Midazolam}{41}{subsubsection.10.7.2.2}%
+\contentsline {subsubsection}{\numberline {10.7.2.3}Propofol}{41}{subsubsection.10.7.2.3}%
+\contentsline {subsection}{\numberline {10.7.3}Muscle Relaxant}{41}{subsection.10.7.3}%
+\contentsline {section}{\numberline {10.8}Neurologi \& Neurosurgery}{42}{section.10.8}%
+\contentsline {subsection}{\numberline {10.8.1}Parenteral}{42}{subsection.10.8.1}%
+\contentsline {subsubsection}{\numberline {10.8.1.1}Manitol}{42}{subsubsection.10.8.1.1}%
+\contentsline {subsubsection}{\numberline {10.8.1.2}NaCl 3\%}{42}{subsubsection.10.8.1.2}%
+\contentsline {subsubsection}{\numberline {10.8.1.3}Fenitoin}{42}{subsubsection.10.8.1.3}%
+\contentsline {subsubsection}{\numberline {10.8.1.4}Fenobarbital}{42}{subsubsection.10.8.1.4}%
+\contentsline {subsubsection}{\numberline {10.8.1.5}Citicolin}{42}{subsubsection.10.8.1.5}%
+\contentsline {subsubsection}{\numberline {10.8.1.6}Piracetam}{42}{subsubsection.10.8.1.6}%
+\contentsline {subsection}{\numberline {10.8.2}Oral}{42}{subsection.10.8.2}%
+\contentsline {section}{\numberline {10.9}Obstetri \& Gineklogi}{42}{section.10.9}%
+\contentsline {subsection}{\numberline {10.9.1}Parenteral}{42}{subsection.10.9.1}%
+\contentsline {subsubsection}{\numberline {10.9.1.1}MgSO4}{42}{subsubsection.10.9.1.1}%
+\contentsline {subsection}{\numberline {10.9.2}Oral}{42}{subsection.10.9.2}%
+\contentsline {section}{\numberline {10.10}Dermatologi \& Venereologi}{42}{section.10.10}%
+\contentsline {section}{\numberline {10.11}THT}{42}{section.10.11}%
+\contentsline {section}{\numberline {10.12}Mata}{42}{section.10.12}%
+\contentsline {chapter}{\numberline {11}Hasil Rapat}{43}{chapter.11}%
+\contentsline {section}{\numberline {11.1}2021}{43}{section.11.1}%
+\contentsline {subsection}{\numberline {11.1.1}September}{43}{subsection.11.1.1}%
+\contentsline {subsection}{\numberline {11.1.2}Oktober}{43}{subsection.11.1.2}%
+\contentsline {subsection}{\numberline {11.1.3}November}{43}{subsection.11.1.3}%
+\contentsline {subsection}{\numberline {11.1.4}Desember}{43}{subsection.11.1.4}%
+\contentsline {section}{\numberline {11.2}2022}{43}{section.11.2}%
+\contentsline {subsection}{\numberline {11.2.1}Januari}{43}{subsection.11.2.1}%
+\contentsline {subsection}{\numberline {11.2.2}Februari}{44}{subsection.11.2.2}%
+\contentsline {subsection}{\numberline {11.2.3}Maret}{44}{subsection.11.2.3}%
+\contentsline {subsection}{\numberline {11.2.4}April}{44}{subsection.11.2.4}%
+\contentsline {subsection}{\numberline {11.2.5}Mei}{44}{subsection.11.2.5}%
+\contentsline {subsection}{\numberline {11.2.6}Juni}{44}{subsection.11.2.6}%
+\contentsline {subsection}{\numberline {11.2.7}Juli}{44}{subsection.11.2.7}%
+\contentsline {subsection}{\numberline {11.2.8}Agustus}{44}{subsection.11.2.8}%

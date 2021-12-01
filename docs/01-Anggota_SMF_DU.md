@@ -3,14 +3,14 @@
 Para Dokter Umum di RS bernaung dibawah satuan medik fungsional (SMF) tersendiri yaitu SMF Dokter Umum
 
 ## Struktur dan Anggota SMF Dokter Umum
-### Koordinator
+### Koordinator (2022)
 TBD
 
-### Pelaksana Tugas Sementara Koordinator Dokter Umum
-* dr. Putu Eka Putra Adnyana
+### Pelaksana Tugas Sementara Koordinator Dokter Umum (2021)
 * dr. Kadek Aditya Dharmayoga (**Fulltime**)
 
 ### Anggota
+* dr. Putu Eka Putra Adnyana
 * dr. Dwi Meviyanti
 * dr. M. Azman Pasha
 * dr. Iska (**Fulltime**)
