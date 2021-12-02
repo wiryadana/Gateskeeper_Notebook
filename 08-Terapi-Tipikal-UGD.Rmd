@@ -264,6 +264,77 @@ Pada bagian ini akan diisi dengan pola tatalaksana sering diberikan pada pasien 
 
 ------------------------------------------------------------------------
 
+## Forensik & Medikolegal
+
+### DOA
+
+#### Penegakan Diagnosis Kematian
+
+**Tanda Pasti Kematian [(Obvious clinical signs of irreversible death)][1]:**
+
+- Rigor mortis
+
+- Dependent Lividity
+
+- Decapitasi
+
+- Transection
+
+- Decomposition
+
+**Tanda Klinis Kematian:**
+
+Penentian kematian berdasarkan tanda klinis kematian dilakukan jika tidak ditemukan tanda pasti kematian. Tanda klinis kematian dapat ditentukan dari 2 pintu masuk, yaitu *Cardiocirculatory Death* dan *Neurological Death* berdasarkan pedoman [WH0][2].
+
+**A. Circulatory Death:**
+
+1. Tidak respon 
+
+2. tidak ada napas atau hanya *gasping*
+
+3. tidak ada sirkulasi (nadi)
+
+Jika ditemukan tanda diatas, maka dilakukan resusitasi jantung paru (Cardiopulmonary Resuscitation) atau jika pasien sudah memiliki tanda DNR, maka resusitasi tidak perlu dilakukan.
+
+Tahap selanjutnya adalah melakukan konfirmasi ketiaadaan sirkulasi (absence of circulation) dengan pemeriksaan klinis meliputi:
+
+1. Tidak ada pulsasi nadi sentral
+
+2. Tidak ada suara jantung pada auskultasi jantung
+
+3. Tidak ada usaha napas
+
+4. Tidak ada respon pupil dengan pencahayaan (absence of pupillaru response to light)
+
+Tahap selanjutnya adalah melakukan salah satu pemeriksaan penunjang jika fasilitas tersedia untuk mencari tanda:
+
+1. Asistol atau PEA dari EKG dan/atau
+
+2. Ketiadaan pulsasi dari pemantauan *intraarterial preassure monitoring* dan/atau
+
+3. Ketiadaan aktivitas kontraktil dari echocardiography
+
+**B. Neurological Death**
+
+Tanda brain death harus dicari terutama ketika tanda circulatory arrest tidak dapat ditemukan:
+
+1. Coma
+
+2. Cedera katastropik pada CNS
+
+Tahap selanjutnya adalah melakukan konfirmasi ketiaadaan aktivitas otak dengan pemeriksaan klinis meliputi:
+
+1. Tanda klinis Coma
+
+2. Tidak adanya reflex batang otak
+
+3. Apneu test
+
+```{r Death, echo=FALSE, fig.align='center', fig.height=12, fig.width=8, message=TRUE, warning=TRUE}
+knitr::include_graphics("Death.jpg")
+```
+
+
 ## Persiapan Pemeriksaan Penunjang
 
 ### Radiologi

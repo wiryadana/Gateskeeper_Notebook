@@ -88,9 +88,12 @@ ___
 ## Sirup
 ## Tetes
 ## Nebul
+
 * Lasalcom Inhaler Nebul respul 2.5 mg/2.5 ml (Ipratropium bromid 0,5 mg + Salbutamol 2,5 mg)
+
 ## Parenteral
 ### Antibiotik
+
 * Cefotaxim 50 mg/kgBB/kali tiap 8-12 jam
 * Ceftriaxon 50 mg/kgBB/kali tiap 12 jam
 ___
