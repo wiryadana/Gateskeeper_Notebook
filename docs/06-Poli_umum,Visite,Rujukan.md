@@ -76,7 +76,7 @@ Rujukan biasanya datang dari RS tipe D dan Puskesmas. Saat dihubungi perhatikan 
 
 * Berikan informasi ke dokter jaga RS Tujuan jika pasien sudah siap untuk dikirim dari RS.
 
-#### Persiapan Khusus Rujukan
+#### Persiapan Rujukan Khusus 
 ##### HD CITO
-Untuk rujuka ke RS lain yang bisa melakukan HD cito, maka perlu ditanyakan apakah dilakukan pemeriksaa HBSAG di RS kita sebelum dirujuk. Jika pasien sudah pernah di periksa HBSAG, maka data tersebut bisa dipersiapkan dan disampaikan saat komunikasi dengan dr Jaga RS Rujukan.
+Untuk rujukan ke RS lain yang bisa melakukan HD cito, maka perlu ditanyakan apakah dilakukan pemeriksaa HBSAG di RS kita sebelum dirujuk. Jika pasien sudah pernah di periksa HBSAG, maka data tersebut bisa dipersiapkan dan disampaikan saat komunikasi dengan dr Jaga RS Rujukan.
 
