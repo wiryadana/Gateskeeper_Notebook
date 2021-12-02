@@ -84,6 +84,9 @@
 \contentsline {subsection}{\numberline {6.16.2}Contoh Format}{25}{subsection.6.16.2}%
 \contentsline {section}{\numberline {6.17}Konsultasi Manajemen dan Tim JKN}{25}{section.6.17}%
 \contentsline {chapter}{\numberline {7}Poli Umum, Visite dan Rujukan}{27}{chapter.7}%
+\contentsline {section}{\numberline {7.1}Poli Umum}{27}{section.7.1}%
+\contentsline {section}{\numberline {7.2}Visite}{28}{section.7.2}%
+\contentsline {section}{\numberline {7.3}Rujukan}{28}{section.7.3}%
 \contentsline {chapter}{\numberline {8}Alat Perhitungan Sederhana}{29}{chapter.8}%
 \contentsline {section}{\numberline {8.1}General}{29}{section.8.1}%
 \contentsline {section}{\numberline {8.2}Penyakit Dalam}{29}{section.8.2}%
@@ -170,6 +173,14 @@
 \contentsline {subsection}{\numberline {9.15.4}Trauma}{36}{subsection.9.15.4}%
 \contentsline {section}{\numberline {9.16}Psikiatri}{36}{section.9.16}%
 \contentsline {subsection}{\numberline {9.16.1}Raptus (mengamuk)}{36}{subsection.9.16.1}%
+\contentsline {section}{\numberline {9.17}Persiapan Pemeriksaan Penunjang}{36}{section.9.17}%
+\contentsline {subsection}{\numberline {9.17.1}Radiologi}{36}{subsection.9.17.1}%
+\contentsline {subsubsection}{\numberline {9.17.1.1}USG Abdomen Atas Bawah}{36}{subsubsection.9.17.1.1}%
+\contentsline {subsubsection}{\numberline {9.17.1.2}USG Urologi}{36}{subsubsection.9.17.1.2}%
+\contentsline {subsubsection}{\numberline {9.17.1.3}CT Stonografi}{36}{subsubsection.9.17.1.3}%
+\contentsline {subsection}{\numberline {9.17.2}Laboratorium}{36}{subsection.9.17.2}%
+\contentsline {subsubsection}{\numberline {9.17.2.1}Asam Urat}{36}{subsubsection.9.17.2.1}%
+\contentsline {subsubsection}{\numberline {9.17.2.2}Lipid Profil}{36}{subsubsection.9.17.2.2}%
 \contentsline {chapter}{\numberline {10}Informasi Obat Esensial UGD}{37}{chapter.10}%
 \contentsline {section}{\numberline {10.1}General}{37}{section.10.1}%
 \contentsline {subsection}{\numberline {10.1.1}Sistem Perhitungan Obat Parenteral}{37}{subsection.10.1.1}%

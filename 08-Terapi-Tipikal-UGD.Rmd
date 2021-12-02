@@ -154,4 +154,17 @@ ___
 
 ## Psikiatri
 ### Raptus (mengamuk)
+
+___
+
+## Persiapan Pemeriksaan Penunjang
+### Radiologi 
+#### USG Abdomen Atas Bawah
+#### USG Urologi
+#### CT Stonografi
+
+### Laboratorium
+
+#### Asam Urat
+#### Lipid Profil
 ___

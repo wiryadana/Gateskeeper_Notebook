@@ -1,12 +1,12 @@
 --- 
 title: "The Gatekeeper's Notebook"
 author: "Kadek Adit Wiryadana"
-date: "2021-12-01"
+date: "2021-12-02"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib, packages.bib]
-# url: your book url like https://bookdown.org/yihui/bookdown
-cover-image: COVER.png
+url: https://wiryadana.github.io/Gateskeeper_Notebook/index.html
+cover-image: "COVER.png"
 description: |
   Buku saku dan panduan untuk dokter Jaga.
   "Dont betray your feeling, keep it sharp"
