@@ -30,13 +30,15 @@ Contoh Kasus:
 
 \begin{equation}
 \frac{0,1 mcg/kg/min \times 50 kg \times 60}{4000 mcg/50cc}
-\\
+\end{equation}
+\begin{equation}
 \frac{5 mcg/min \times 60}{80mcg/cc}
-\\ 
+\end{equation}
+\begin{equation}
 \frac{300 mcg/jam}{80 mcg/cc}
-\\ 
+\end{equation}
+\begin{equation}
 \ 3,75 cc/jam
-\\
 \end{equation}
 
 ___

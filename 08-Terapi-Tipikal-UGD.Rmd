@@ -25,15 +25,170 @@ Pada bagian ini akan diisi dengan pola tatalaksana sering diberikan pada pasien 
 
 #### Ketoasidosis Diabetikum (KAD)
 
+DKA biasanya disertai hiperkalemia akibat shoft K keluar sel. Jika sebaliknya DKA dengan kalium normal atau hipokalemia, maka curigai adanya kekurangan total kalium tubuh.
+
 #### Hyperglicemic Hyperosmolar State
 
 ### Nefrologi
 
-#### Hiperkalemia
+#### Hiperkalemia (K > 5,5 mEq/L)
 
-#### Hipokalemia
+Ancaman utama adalah gangguan polarisasi jantung (menjadi kurang elektronegatif), risiko aritmia tinggi.
 
-#### Hipernatremia
+* Hiperkalemia ringan 5,0 - 5,9 mEq/L
+* Hiperkalemia sedang 6.0 - 6.4 mEq/L
+* Hiperkalemia berat $\geq$ 6.5 mEq/L
+
+**Terapi**
+
+* Monitor EKG kontinyu.
+
+**1. Tahap 0 ~ stop intake kalium**
+
+* Berikan infus NaCl, jika sebelumnya RL, maka diganti dengan NaCl.
+* Hentikan suplemen atau makanan yang tinggi kalium.
+* Hentikan obat yang menghambat eksresi kalium di ginjal secara langsung (ACE inhibitor, ARB, K sparing diuretics) dan tidak langsung (NSAID, iodine kontrast, antibiotik).
+
+**2. Tahap 1 ~ stabilkan membran sel jantung**
+
+* Berikan kalsium, biasanya dalam bentuk sediaan kalsium glukonat (melawan efek hiperkalemia dalam tingkat membran sel, menstabilkan jantung). Calcium glukonat (10%) 10-20 ml (IV) / 1 ampul atau calcium chloride (10%) 5-10 ml (IV) sebaiknya via vena sentral. Onset 3-5 menit, lama kerja 30-60 menit
+
+**3. Tahap 2 ~ Shift K kedalam sel (penurunan $\pm$ 1,2 mEq/L)**
+
+* Albuterol atau salbutamol nebul (beta-2 agonist) dosis tinggi (4 kali dosis bronkodilasi), 10-20 mg dalam 4 ml NS, nebul dalam 10 menit. Penurunan sekitar 0,5 - 1 mEq/L, tergantung dosis. Onset 15-30 menit, lama kerja 2-4 jam.
+* Insulin dan glukosa. 5-10 Unit insulin IV dengan glucose 25 gram (50%) IV. Atau alternatif yang lebih sering digunakan adalah 4 flakon D40% masukan dalam D10% 100 ml hingga total 200 cc. Kemudian ditambahkan 20 unit insulin. Campuran Infus dihabiskan dalam 30 menit. Pada pasien hiperglikemia tidak diberikan glukosa. penuruna maksimal 0,6 mEq/L. Onset 30 menit, lama kerja 4-6 jam.
+* Jika tidak ada tanda overload cairan, berikan loading cairan (100-250 ml).
+
+**4. Tahap 3 ~ Maksimalkan eksresi Kalium**
+
+* Furosemid 40-80 mg IV (eksresi via renal)
+* Sodium Polystiren Sulfonate (Kayexalate) 25-50 mg PO atau PR untuk membantu eksresi via saluran cerna. Onset 1-2 jam, lama kerja 4-6 jam.
+
+
+**Pertimbangkan**
+ 
+* Natrium bicarbonate 50 - 100 ml untuk membantu shift K, masih kontroversial. Berikan hanya jika ada metabolic acidosis berat.
+* Hemodialisis Cito, terutama jika pasien sudah memiliki riwayat CKD. Penurunan 1 mEq/L dalam 1 jam pertama, dan 1 mEq/L dalam 2 jam selanjutnya. Pada fungsi ginjal normal, obat-obatan saja biasanya cukup.
+* Epinefrine, pada keadaan cardiac arrest akibat hiperkalemia. Penurunan 0,25 mEq/L. 
+
+#### Hipokalemia (K < 3,5 mEq/L)
+
+Ancaman utama adalah gangguan polarisasi jantung (menjadi lebih elektronegatif), risiko aritmia tinggi. Setiap penurunan kalium serum 0,3 mEq/L dibawah normal setara dengan defisit 100 mEq total kalium tubuh. 
+
+**Terapi**
+
+**1. Hipokalemia Ringan (K > 3,0 mEq/L)**
+
+Koreksi oral:
+
+* Terapi penyebab utama. Jika ada penggunaan diuretik (furosemid atau thiazide), maka dapat dikurangi dosis atau tambahkan spironolakton sebagai pengganti. Jika akibat respiratory alkalosis (ansietas akut/hiperventilasi), maka terapi penyakit dasar/gejala saja cukup tanpa suplementasi K. Jika pasien menggunakan beta agonist (asma atau PPOK) maka penurunan kalium bisa terjadi akibat dosis beta agonist yang besar, walaupun penurunan K bersifat sementara.
+* Makanan kaya kalium (buah, sayur)
+* Suplement tablet garam, atau suplemem K. Suplemen disertai KIE minum yang banyak, untuk mencegah iritasi lambung. Suplemen K 40 -100 mEq/hari untuk koreksi sedangkan 20 meq/hari untuk pencegahan. Maksimal 40meq per kali. Dosis pencegahan 1 mEq/kgBB hingga 3 mEq/kgBB per hari, sedangkan untuk pengobatan 2–4 mEq/kgBB per hari. KSR 600 mg mengandung 8 meq K. 1-2 tablet 2-3 kali/hari.
+
+Jika pasien ada gejala mual dan muntah, maka koreksi oral tidak akan efektif. 
+
+**2. Hipokalemia Sedang (K 2,5 - 3,0 mEq/L)**
+
+Gejala akan muncul jika pasien memiliki riwayat jantung
+
+* Koreksi kalium intravena dengan kalium chlorida dengan konsentrasi maksimal 40 mEq dalam 500 mL NaCl selama 4-6 jam agar tidak mengiritasi vena. Jika koreksi agresif diperlukan, maka dapat diberikan dari 2 line IV perifer atau satu jalur IV sentral. Laju koreksi 10-20 mEq/jam Maksimal koreksi tidak melebihi 20 mEq/jam. 
+
+**3. Hipokalemia Berat (K < 2,5 mEq/L)** 
+
+Pada tingkat kalium <2,5 mEq/L, pada pasien tanpa kelainan jantung gejala klinis baru muncul. 
+
+* Sama dengan hipokalemia sedang
+
+**Pertimbangkan**
+
+Pada sebagian kasus hipokalemia disertai dengan hipomagnesemia. Biasanya terjadi pada kasus hipokalemia yang sulit dikoreksi dan berat. Berikan magnesium (20 hingga 60 mEq/24 jam). Satu gram MgSO4 setara 4 mmol atau 8 mEq magnesium, sehingga diperlukan 2,5-6 gram. Satu fls MgSO4 20% = 5 gram MgSO4 dan 1 fls MgSO4 40% = 10 gram MgSO4. 
+ 
+#### Hipernatremia (Na > 145 mEq/L)
+
+Hipernatremia jarang terjadi, biasanya dialami pasien dengan kesulitan minum (bayi, lansia, bed rest, intubasi, kelainan mental) atau kehilangans sensasi haus. Hipernatremia biasanya terjadi akibat kelainan fisiologi dengan pasangan:
+
+1. Dehidrasi dengan total Na tubuh rendah
+2. Dehidrasi dengan total Na tubuh normal
+3. Tanpa dehidrasi dengan total Na tubuh meningkat
+
+Sebagian besar terjadi karena free water defisit. Untuk koreksi free water defisit maka diperlukan perhitungan:
+
+\begin{equation}
+\ TBW defisit = TBW \times [\frac{Serum NA}{140} - 1]
+\end{equation}
+
+TBW atau total body water dihitung dengan rumus:
+
+\begin{equation}
+\ TBW = BB (Kg) \times 0,6
+\end{equation}
+
+Untuk anak-anak dan laki-laki dewasa digunakan faktor pengali 0,6 L/Kg, wanita dewasa dan lansia pria 0,5 L/Kg serta lansia wanita 0,45 L/Kg.
+
+**Terapi**
+
+Koreksi dilakukan dengan laju:
+* 1 -2 mEq/jam untuk kasus hipernatremia akut
+* 0,5 mEq/jam atau 10 - 12 mEq/hari. untuk hipernatremia yang terjadi dalam kurun hari hingga minggu.
+
+1. Terapi dilakukan dengan normal saline untuk koreksi dehirasi dan tanda vital stabil.
+2. Jika diperlukan, setelah dehidrasi teratasi dapat diganti dengan D5 1/2 NS 100 ml/jam.
+
+**Contoh**
+
+Pasien laki laki dewasa, serum natrium 160 mEq/L, akibat muntah muntah dan penurunan kesadaran selama 7 hari. BB 50 kg.
+
+\begin{equation}
+\ TBW = BB (Kg) \times 0,6 L/Kg
+\end{equation}
+\begin{equation}
+\ TBW = 50kg \times 0,6 
+\end{equation}
+\begin{equation}
+\ TBW = 30 L
+\end{equation}
+\begin{equation}
+\ TBW defisit = TBW \times [\frac{Serum NA}{Target NA} - 1]
+\end{equation}
+\begin{equation}
+\ TBW defisit = 30 L \times [\frac{160}{140} - 1]
+\end{equation}
+\begin{equation}
+\ TBW defisit = 30 L \times [1.14 - 1]
+\end{equation}
+\begin{equation}
+\ TBW defisit = 30 L \times 0.14
+\end{equation}
+\begin{equation}
+\ TBW defisit = 4.2 L
+\end{equation}
+
+Koreksi dilakuian 0,5 mEq/jam, maka:
+
+\begin{equation}
+\ lama koreksi = \frac{(160 mEq - 140 mEq)}{0.5 mEq/jam}
+\end{equation}
+\begin{equation}
+\ lama koreksi = \frac{20 mEq}{0.5 mEq/jam}
+\end{equation}
+\begin{equation}
+\ lama koreksi = 40 jam
+\end{equation}
+
+Maka kecepatan infus:
+
+\begin{equation}
+\ kecepatan = 4200 ml/40 jam
+\end{equation}
+\begin{equation}
+\ kecepatan = 105 ml/jam
+\end{equation}
+\begin{equation}
+\ kecepatan = \frac{ 105 ml/jam}{60 menit} \times 20 tetes/menit 
+\end{equation}
+\begin{equation}
+\ kecepatan = 35 tpm
+\end{equation}
 
 #### Hiponatremia
 

@@ -24,6 +24,7 @@ ___
 ___
 
 ## Pediatri
+### WHO Growth Chart
 ### APGAR SCORE
 ### CENTOR SCORE ~ Streptococcus Pharingitis
 ### REVISED JONES SCORE ~ Acute Rheumatic Fever

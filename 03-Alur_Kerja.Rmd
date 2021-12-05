@@ -35,3 +35,12 @@
 9. Lakukan konsul ke dr Spesialis lain jika diinstruksikan DPJP
 10. Jika semua dr spesialis sudah acc tindakan atau semua instruksi telah dilakukan, konsul anestesi
 11. Sampaikan hasil konsul dr anestesi ke DPJP
+
+## Alur Operasi dengan Implant
+
+1. Pastikan diagnosis, tindakan, kebutuhan implant dan sewa alat dari DPJP.
+2. Sampaikan informasi diagnosis, tindakan dan sewa alat ke FO.
+3. Sampaikan informasi implant ke Farmasi.
+4. Tunggu harga implant dari farmasi, lalu sampaikan informasi ke FO.
+5. Tunggu info terkait kesanggupan Rumah Sakit untuk melakukan tatalaksana tindakan tersebut. Selama proses menunggu keputusan, pasien belum dapat dibawa ke ruang rawat inap.
+6. Kie pasien terkait tindakan yang akan dilakukan.
