@@ -133,6 +133,7 @@ Koreksi dilakukan dengan laju:
 
 1. Terapi dilakukan dengan normal saline untuk koreksi dehirasi dan tanda vital stabil.
 2. Jika diperlukan, setelah dehidrasi teratasi dapat diganti dengan D5 1/2 NS 100 ml/jam.
+3. Jika pasien sadar, 2/3 cairan (water) dikoreksi melalui oral intake, 1/3 melalui IV
 
 **Contoh**
 
@@ -190,7 +191,78 @@ Maka kecepatan infus:
 \ kecepatan = 35 tpm
 \end{equation}
 
-#### Hiponatremia
+#### Hiponatremia (Na < 135 mEq/L)
+
+Hiponatremia menyebabkan edema sel, terutama pada sel saraf otak dan dapat menyebabkan edema serebri. 
+
+Hiponatremia sering asimtomatik. Hipoenatremia yang memerlukan terapi segera adalah:
+1. Asimptomatik dengan Na $\leq$ 110 mEq/L
+2. Hiponatremia akut dan simptomatik (neurological deficit) dengan $\leq$ 110 mEq/L
+
+Rumus perkiraan kenaikan Na dalam 1 liter infus.
+
+\begin{equation}
+\ \triangle Na = \frac{Na Infus - Na Serum}{TBW + 1}
+\end{equation}
+
+**Terapi**
+Laju Koreksi:
+* Hiponatemia akut (<48 jam), koreksi maksimal 10-12 mEq dalam 24 jam pertama
+* Hiponatemia kronik (>48 jam), koreksi maksimal 8 mEq dalam 24 jam pertama
+* Koreksi selanjutnya dilakukan dalam 48-72 jam.
+* Koreksi cepat dapat dilakukan dengan  4-6 mEq dalam 6 jam ~ infus cepat NaCl 3% 100 ml dalam 10 menit, bisa diulang dengan 100 ml dalam 50 menit.
+* Batasi intake cairan air murni.
+
+**Contoh**
+
+Pasien laki laki 50 th, BB sebelumnya 50 kg, Na 110 mEq/L, mual muntah serta diare sejak 5 hari.
+
+* Koreksi hemodinamik dengan NaCl 0,9% (Na 154 mEq/L).
+* Koreksi Na dengan NaCl 3% (Na 512 mEq/L).
+
+TBW dihitung:
+\begin{equation}
+\ TBW = 50 kg \times 0.6 = 30 L
+\end{equation}
+
+Koreksi 1 L NaCl 3% menghasilkan perubahan Na serum sebesar:
+
+\begin{equation}
+\ \triangle NA = \frac{512 - 110}{30 + 1}
+\end{equation}
+
+\begin{equation}
+\ \triangle NA = \frac{402}{31}
+\end{equation}
+
+
+\begin{equation}
+\ \triangle NA = 13 mEq/L
+\end{equation}
+
+Koreksi maksimal dalam 24 jam adalah 8 mEq/24 Jam (hiponatemia kronis)
+
+\begin{equation}
+\ \triangle NA = 13 mEq/L
+\end{equation}
+
+\begin{equation}
+\ Na3% = \frac{8 mEq/24 jam}{13 mEq/L}
+\end{equation}
+
+\begin{equation}
+\ Na3% = \frac{0.62 L}{24 jam}
+\end{equation}
+
+Laju infus:
+
+\begin{equation}
+\ Na3% = \frac{620 ml}{24 jam}
+\end{equation}
+
+\begin{equation}
+\ Na3% = \frac{25.8 ml}{1 jam} = 8,6 tpm
+\end{equation}
 
 ### Infeksi
 
