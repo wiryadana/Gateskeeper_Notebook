@@ -242,27 +242,22 @@ Koreksi 1 L NaCl 3% menghasilkan perubahan Na serum sebesar:
 
 Koreksi maksimal dalam 24 jam adalah 8 mEq/24 Jam (hiponatemia kronis)
 
-\begin{equation}
-\ \triangle NA = 13 mEq/L
-\end{equation}
 
-\begin{equation}
-\ Na3% = \frac{8 mEq/24 jam}{13 mEq/L}
-\end{equation}
+Na3% = $\frac{8 mEq/24 jam}{13 mEq/L}$
 
-\begin{equation}
-\ Na3% = \frac{0.62 L}{24 jam}
-\end{equation}
+
+
+Na3% = $\frac{0.62 L}{24 jam}$
+
 
 Laju infus:
 
-\begin{equation}
-\ Na3% = \frac{620 ml}{24 jam}
-\end{equation}
 
-\begin{equation}
-\ Na3% = \frac{25.8 ml}{1 jam} = 8,6 tpm
-\end{equation}
+Na3% = $\frac{620 ml}{24 jam}$
+
+
+Na3% = $\frac{25.8 ml}{1 jam} = 8,6 tpm$
+
 
 ### Infeksi
 
@@ -557,7 +552,8 @@ Tahap selanjutnya adalah melakukan konfirmasi ketiaadaan aktivitas otak dengan p
 
 3. Apneu test
 
-<img src="Death.jpg" width="430" style="display: block; margin: auto;" />
+
+\begin{center}\includegraphics[width=11.93in]{Death} \end{center}
 
 
 ## Persiapan Pemeriksaan Penunjang
