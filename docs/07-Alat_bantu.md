@@ -48,6 +48,8 @@ ___
 ### ASA Physical Status Classification System ~ Preoperative
 ### SOFA SCORE ~ Organ Dysfunction in Critically ill Patient
 ### qSOFA SCORE ~ Sepsis and organ dysfunction
+### BPS ~ Behavioral Pain Scale
+### RASS ~ Richmond Agitation Scale
 ___
 
 ## Neurologi & Bedah Saraf

@@ -121,6 +121,10 @@ Kontraindikasi:
 
 
 #### Dobutamin
+Beta 1 dan Beta 2 agonist, cardioselective, inotropic tanpa peningkatan HR signifikan (5-15x/min).
+
+Kontrainfikasi pada pasien dengan hipertropik kardiomiopati
+
 * Sediaan ampul = 250 mg
 
 | kategori | Dosis | Keterangan |
@@ -140,11 +144,18 @@ Sediaan 1 ampul = 4 mg
 
 | Kategori | Dosis | Keterangan |
 |----------|-------|------------|
-| | 0,1 - 0,5 mcg/kgBB/menit | |
+| | 0,1 - 0,5 mcg/kgBB/menit atau 5 - 30 mcg/min | |
+
+#### Epinefrine
+
+* Sediaan 1 ampul =  1 mg/ml (1:1000)
+
+* Dosis Awal: 1 -2 mcg/min (0,02 mcg/kg/min)
+* Dosis dinaikan 1 -2 mcg/min sesuai target
 
 #### Nicardipin
 * Sediaan: 10 mg/ampul
-* 
+* Dosis: 5 - 15 mg/jam
 
 #### ISDN
 * Sediaan: 1 ampul 10 mg
@@ -156,7 +167,8 @@ Sediaan 1 ampul = 4 mg
 
 #### Furosemid
 * Sediaan = 20 mg/2cc (ampul)
-* Dosis 
+* Dosis initial: 5 - 10 mcg/min, bisa naik 5- 10 mcg/min setiap 5 menit
+* Dosis efektif 5 - 100 mcg/min
 
 #### Heparin
 * Sediaan : 25.000 Unit/vial

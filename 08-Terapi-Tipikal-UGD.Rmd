@@ -399,7 +399,78 @@ Na3% = $\frac{25.8 ml}{1 jam} = 8,6 tpm$
 
 ### Preoperative
 
-### Critical Care
+### Terapi Intensif
+### Pain Control in ICU
+
+* Target BPS $\leq$ 5
+
+#### Opioid
+##### Fentanil
+
+* Onset cepat (1-2 min), risiko hipotensi tidak ada karena tidak menstimulasi pengeluaran histamin dan tanpa perlu penyesuaian dosis pada gagal ginjal
+
+* Dosis loading dan bolus
+0,35 - 0,5 mcg/kg tiap 0,5 - 1 jam
+
+* Dosis Maintenance
+0,7 -10 mcg/kg/jam
+
+##### Morphine
+* Onset cepat (5-10 min), risiko hipotensi ada karena menstimulasi pengeluaran histamin serta penyesuain dosis 50% pada gagal ginjal
+
+* Dosis loading dan bolus
+2 -4 mg, tiap 1-2 jam 
+
+* Dosis Maintenance
+2-30 mg/jam
+
+#### Non-opioid (Opioid sparring effect)
+##### Ketorolac
+##### Paracetamol/acetaminopen
+
+### Sedation in ICU
+#### Benzodiazepine
+* Ada akumulasi obat dan metabolitnya, untuk menghindari dapat dilakukan daily interuption (sampai pasien terbangun)
+* Titrasi dosis hingga sedasi optimal (RASS scale 2)
+
+##### Midazolam
+Obat onset cepat (1-2 min) kerja pendek (1-2 jam) dan metabolit akumulatif. Batasi $\leq$ 48 jam.
+
+Bisa mulai 2 mg bolus, drip 2 mg/jam
+
+* loading dose
+0,01 - 0,05 mg/kg
+
+* Maintenance dose
+0,02-0,1 mg/kg/jam
+
+##### Lorazepam
+Obat onset lambat (15-20 min), durasi sedang (2-6 jam)
+
+* Loading Dose
+0,02 - 0,04 mg/kg ($\leq$ 2 mg)
+
+* Maintenance Dose (drip)
+0,01 - 0,1 mg/kg/jam($\leq$ 10 mg)
+
+* Maintenance Dose (intermitent bolus)
+0,02 - 0,06 mg/kg, q 2-6 jam
+
+#### Propofol
+
+* Gunakan ketika durasi pendek (arousal 10-15 min pasca henti drip) dan cepat (1-2 min).
+* Gunakan hanya pada pasien yang dalam bantuan ventilator (risiko depresi nafas)
+* Gunakan hanya pada pasien dengan hemodinamik stabil atau tanpa hipovolemia atau gagal jantung
+
+* Dosis loading
+5 mcg/kg/min dalam 5 menit
+
+* Dosis Maintenance (drip)
+5-50 mcg/kg/min
+
+### Intubasi (invasive ventilation)
+
+### Ventilator
 
 ------------------------------------------------------------------------
 

@@ -160,6 +160,8 @@
 \contentsline {subsection}{\numberline {8.7.1}ASA Physical Status Classification System \textasciitilde {} Preoperative}{45}{subsection.8.7.1}%
 \contentsline {subsection}{\numberline {8.7.2}SOFA SCORE \textasciitilde {} Organ Dysfunction in Critically ill Patient}{45}{subsection.8.7.2}%
 \contentsline {subsection}{\numberline {8.7.3}qSOFA SCORE \textasciitilde {} Sepsis and organ dysfunction}{45}{subsection.8.7.3}%
+\contentsline {subsection}{\numberline {8.7.4}BPS \textasciitilde {} Behavioral Pain Scale}{45}{subsection.8.7.4}%
+\contentsline {subsection}{\numberline {8.7.5}RASS \textasciitilde {} Richmond Agitation Scale}{45}{subsection.8.7.5}%
 \contentsline {section}{\numberline {8.8}Neurologi \& Bedah Saraf}{45}{section.8.8}%
 \contentsline {subsection}{\numberline {8.8.1}GCS SCORE \textasciitilde {} Consciousness}{45}{subsection.8.8.1}%
 \contentsline {subsubsection}{\numberline {8.8.1.1}ADULT GCS (DEWASA)}{45}{subsubsection.8.8.1.1}%
@@ -231,134 +233,149 @@
 \contentsline {subsection}{\numberline {9.9.3}Malignancy}{56}{subsection.9.9.3}%
 \contentsline {section}{\numberline {9.10}Anestesi}{56}{section.9.10}%
 \contentsline {subsection}{\numberline {9.10.1}Preoperative}{56}{subsection.9.10.1}%
-\contentsline {subsection}{\numberline {9.10.2}Critical Care}{56}{subsection.9.10.2}%
-\contentsline {section}{\numberline {9.11}Neurologi \& Bedah Saraf}{56}{section.9.11}%
-\contentsline {subsection}{\numberline {9.11.1}Vaskular}{56}{subsection.9.11.1}%
-\contentsline {subsubsection}{\numberline {9.11.1.1}Stroke non Hemorhagik (SNH)}{56}{subsubsection.9.11.1.1}%
-\contentsline {subsubsection}{\numberline {9.11.1.2}Stroke Hemorhagik (SH)}{56}{subsubsection.9.11.1.2}%
-\contentsline {subsection}{\numberline {9.11.2}Pain}{57}{subsection.9.11.2}%
-\contentsline {subsection}{\numberline {9.11.3}Trauma}{57}{subsection.9.11.3}%
-\contentsline {subsection}{\numberline {9.11.4}Malignancy}{57}{subsection.9.11.4}%
-\contentsline {subsection}{\numberline {9.11.5}Degenerative}{57}{subsection.9.11.5}%
-\contentsline {section}{\numberline {9.12}Obstetri \& Gineklogi}{57}{section.9.12}%
-\contentsline {subsection}{\numberline {9.12.1}Obstetri}{57}{subsection.9.12.1}%
-\contentsline {subsection}{\numberline {9.12.2}Ginekologi}{57}{subsection.9.12.2}%
-\contentsline {section}{\numberline {9.13}Dermatologi \& Venereologi}{57}{section.9.13}%
-\contentsline {subsection}{\numberline {9.13.1}Psoriasis}{57}{subsection.9.13.1}%
-\contentsline {subsection}{\numberline {9.13.2}Alergi}{57}{subsection.9.13.2}%
-\contentsline {section}{\numberline {9.14}THT}{57}{section.9.14}%
-\contentsline {subsection}{\numberline {9.14.1}Preoperaitve}{57}{subsection.9.14.1}%
-\contentsline {subsection}{\numberline {9.14.2}Corpus Alienum}{57}{subsection.9.14.2}%
-\contentsline {subsection}{\numberline {9.14.3}Infeksi}{57}{subsection.9.14.3}%
-\contentsline {subsection}{\numberline {9.14.4}Tumor}{57}{subsection.9.14.4}%
-\contentsline {section}{\numberline {9.15}Mata}{58}{section.9.15}%
-\contentsline {subsection}{\numberline {9.15.1}Preoperative}{58}{subsection.9.15.1}%
-\contentsline {subsection}{\numberline {9.15.2}Infeksi}{58}{subsection.9.15.2}%
-\contentsline {subsection}{\numberline {9.15.3}Corpus Alienum}{58}{subsection.9.15.3}%
-\contentsline {subsection}{\numberline {9.15.4}Trauma}{58}{subsection.9.15.4}%
-\contentsline {section}{\numberline {9.16}Psikiatri}{58}{section.9.16}%
-\contentsline {subsection}{\numberline {9.16.1}Raptus (mengamuk)}{58}{subsection.9.16.1}%
-\contentsline {section}{\numberline {9.17}Forensik \& Medikolegal}{58}{section.9.17}%
-\contentsline {subsection}{\numberline {9.17.1}DOA}{58}{subsection.9.17.1}%
-\contentsline {subsubsection}{\numberline {9.17.1.1}Penegakan Diagnosis Kematian}{58}{subsubsection.9.17.1.1}%
-\contentsline {section}{\numberline {9.18}Persiapan Pemeriksaan Penunjang}{61}{section.9.18}%
-\contentsline {subsection}{\numberline {9.18.1}Radiologi}{61}{subsection.9.18.1}%
-\contentsline {subsubsection}{\numberline {9.18.1.1}USG Abdomen Atas Bawah}{61}{subsubsection.9.18.1.1}%
-\contentsline {subsubsection}{\numberline {9.18.1.2}USG Urologi}{61}{subsubsection.9.18.1.2}%
-\contentsline {subsubsection}{\numberline {9.18.1.3}CT Stonografi}{61}{subsubsection.9.18.1.3}%
-\contentsline {subsection}{\numberline {9.18.2}Laboratorium}{61}{subsection.9.18.2}%
-\contentsline {subsubsection}{\numberline {9.18.2.1}Asam Urat}{61}{subsubsection.9.18.2.1}%
-\contentsline {subsubsection}{\numberline {9.18.2.2}Lipid Profil}{61}{subsubsection.9.18.2.2}%
-\contentsline {chapter}{\numberline {10}Informasi Obat Esensial UGD}{63}{chapter.10}%
-\contentsline {section}{\numberline {10.1}General}{63}{section.10.1}%
-\contentsline {subsection}{\numberline {10.1.1}Sistem Perhitungan Obat Parenteral}{63}{subsection.10.1.1}%
-\contentsline {section}{\numberline {10.2}Penyakit Dalam}{64}{section.10.2}%
-\contentsline {subsection}{\numberline {10.2.1}Parenteral}{64}{subsection.10.2.1}%
-\contentsline {subsubsection}{\numberline {10.2.1.1}Transfusi Darah}{64}{subsubsection.10.2.1.1}%
-\contentsline {paragraph}{\numberline {10.2.1.1.1}WB}{64}{paragraph.10.2.1.1.1}%
-\contentsline {paragraph}{\numberline {10.2.1.1.2}PRC}{64}{paragraph.10.2.1.1.2}%
-\contentsline {paragraph}{\numberline {10.2.1.1.3}FFP}{64}{paragraph.10.2.1.1.3}%
-\contentsline {paragraph}{\numberline {10.2.1.1.4}TC}{64}{paragraph.10.2.1.1.4}%
-\contentsline {subsubsection}{\numberline {10.2.1.2}Albumin}{64}{subsubsection.10.2.1.2}%
-\contentsline {subsubsection}{\numberline {10.2.1.3}Deksametason}{64}{subsubsection.10.2.1.3}%
-\contentsline {subsubsection}{\numberline {10.2.1.4}Insulin}{64}{subsubsection.10.2.1.4}%
-\contentsline {paragraph}{\numberline {10.2.1.4.1}DRIP KAD HHS}{64}{paragraph.10.2.1.4.1}%
-\contentsline {paragraph}{\numberline {10.2.1.4.2}Regulasi Preoperasi}{64}{paragraph.10.2.1.4.2}%
-\contentsline {paragraph}{\numberline {10.2.1.4.3}Hiperkalemia}{64}{paragraph.10.2.1.4.3}%
-\contentsline {paragraph}{\numberline {10.2.1.4.4}Dosis Maintenance}{64}{paragraph.10.2.1.4.4}%
-\contentsline {subsubsection}{\numberline {10.2.1.5}KCL}{65}{subsubsection.10.2.1.5}%
-\contentsline {subsubsection}{\numberline {10.2.1.6}Natrium Bikarbonat}{65}{subsubsection.10.2.1.6}%
-\contentsline {subsection}{\numberline {10.2.2}Oral}{65}{subsection.10.2.2}%
-\contentsline {section}{\numberline {10.3}Paru}{65}{section.10.3}%
-\contentsline {subsection}{\numberline {10.3.1}Parenteral}{65}{subsection.10.3.1}%
-\contentsline {subsubsection}{\numberline {10.3.1.1}Aminofilin}{65}{subsubsection.10.3.1.1}%
-\contentsline {subsection}{\numberline {10.3.2}Oral}{65}{subsection.10.3.2}%
-\contentsline {section}{\numberline {10.4}Pediatri}{65}{section.10.4}%
-\contentsline {section}{\numberline {10.5}Tablet}{65}{section.10.5}%
-\contentsline {section}{\numberline {10.6}Sirup}{65}{section.10.6}%
-\contentsline {section}{\numberline {10.7}Tetes}{65}{section.10.7}%
-\contentsline {section}{\numberline {10.8}Nebul}{65}{section.10.8}%
-\contentsline {section}{\numberline {10.9}Parenteral}{65}{section.10.9}%
-\contentsline {subsection}{\numberline {10.9.1}Antibiotik}{65}{subsection.10.9.1}%
-\contentsline {section}{\numberline {10.10}Kardiovaskular}{65}{section.10.10}%
-\contentsline {subsection}{\numberline {10.10.1}Parenteral}{65}{subsection.10.10.1}%
-\contentsline {subsubsection}{\numberline {10.10.1.1}Dopamin}{65}{subsubsection.10.10.1.1}%
-\contentsline {subsubsection}{\numberline {10.10.1.2}Dobutamin}{66}{subsubsection.10.10.1.2}%
-\contentsline {subsubsection}{\numberline {10.10.1.3}Norepinefrin/Vascon}{66}{subsubsection.10.10.1.3}%
-\contentsline {subsubsection}{\numberline {10.10.1.4}Nicardipin}{66}{subsubsection.10.10.1.4}%
-\contentsline {subsubsection}{\numberline {10.10.1.5}ISDN}{67}{subsubsection.10.10.1.5}%
-\contentsline {subsubsection}{\numberline {10.10.1.6}Nitrogliserin}{67}{subsubsection.10.10.1.6}%
-\contentsline {subsubsection}{\numberline {10.10.1.7}Furosemid}{67}{subsubsection.10.10.1.7}%
-\contentsline {subsubsection}{\numberline {10.10.1.8}Heparin}{67}{subsubsection.10.10.1.8}%
-\contentsline {subsubsection}{\numberline {10.10.1.9}LMWH}{67}{subsubsection.10.10.1.9}%
-\contentsline {subsubsection}{\numberline {10.10.1.10}Digoxin}{67}{subsubsection.10.10.1.10}%
-\contentsline {subsubsection}{\numberline {10.10.1.11}Adrenalin/Epinefrin}{67}{subsubsection.10.10.1.11}%
-\contentsline {subsubsection}{\numberline {10.10.1.12}Sulfas Atropin}{67}{subsubsection.10.10.1.12}%
-\contentsline {subsubsection}{\numberline {10.10.1.13}Amiodaron}{67}{subsubsection.10.10.1.13}%
-\contentsline {subsubsection}{\numberline {10.10.1.14}Lidokain}{67}{subsubsection.10.10.1.14}%
-\contentsline {subsubsection}{\numberline {10.10.1.15}Calcium Glukonas}{67}{subsubsection.10.10.1.15}%
-\contentsline {subsection}{\numberline {10.10.2}Oral Nitrogliserin}{67}{subsection.10.10.2}%
-\contentsline {section}{\numberline {10.11}Bedah}{67}{section.10.11}%
-\contentsline {section}{\numberline {10.12}Anestesi}{68}{section.10.12}%
-\contentsline {subsection}{\numberline {10.12.1}Analgetik}{68}{subsection.10.12.1}%
-\contentsline {subsubsection}{\numberline {10.12.1.1}Morfin}{68}{subsubsection.10.12.1.1}%
-\contentsline {subsubsection}{\numberline {10.12.1.2}Petidin}{68}{subsubsection.10.12.1.2}%
-\contentsline {subsubsection}{\numberline {10.12.1.3}Fentanil}{68}{subsubsection.10.12.1.3}%
-\contentsline {subsubsection}{\numberline {10.12.1.4}Ketorolac}{68}{subsubsection.10.12.1.4}%
-\contentsline {subsubsection}{\numberline {10.12.1.5}Tramadol}{68}{subsubsection.10.12.1.5}%
-\contentsline {subsection}{\numberline {10.12.2}Sedatif}{68}{subsection.10.12.2}%
-\contentsline {subsubsection}{\numberline {10.12.2.1}Diazepam}{68}{subsubsection.10.12.2.1}%
-\contentsline {subsubsection}{\numberline {10.12.2.2}Midazolam}{68}{subsubsection.10.12.2.2}%
-\contentsline {subsubsection}{\numberline {10.12.2.3}Propofol}{68}{subsubsection.10.12.2.3}%
-\contentsline {subsection}{\numberline {10.12.3}Muscle Relaxant}{68}{subsection.10.12.3}%
-\contentsline {section}{\numberline {10.13}Neurologi \& Neurosurgery}{68}{section.10.13}%
-\contentsline {subsection}{\numberline {10.13.1}Parenteral}{68}{subsection.10.13.1}%
-\contentsline {subsubsection}{\numberline {10.13.1.1}Manitol}{68}{subsubsection.10.13.1.1}%
-\contentsline {subsubsection}{\numberline {10.13.1.2}NaCl 3\%}{68}{subsubsection.10.13.1.2}%
-\contentsline {subsubsection}{\numberline {10.13.1.3}Fenitoin}{68}{subsubsection.10.13.1.3}%
-\contentsline {subsubsection}{\numberline {10.13.1.4}Fenobarbital}{68}{subsubsection.10.13.1.4}%
-\contentsline {subsubsection}{\numberline {10.13.1.5}Citicolin}{68}{subsubsection.10.13.1.5}%
-\contentsline {subsubsection}{\numberline {10.13.1.6}Piracetam}{68}{subsubsection.10.13.1.6}%
-\contentsline {subsection}{\numberline {10.13.2}Oral}{68}{subsection.10.13.2}%
-\contentsline {section}{\numberline {10.14}Obstetri \& Gineklogi}{69}{section.10.14}%
-\contentsline {subsection}{\numberline {10.14.1}Parenteral}{69}{subsection.10.14.1}%
-\contentsline {subsubsection}{\numberline {10.14.1.1}MgSO4}{69}{subsubsection.10.14.1.1}%
-\contentsline {subsection}{\numberline {10.14.2}Oral}{69}{subsection.10.14.2}%
-\contentsline {section}{\numberline {10.15}Dermatologi \& Venereologi}{69}{section.10.15}%
-\contentsline {section}{\numberline {10.16}THT}{69}{section.10.16}%
-\contentsline {section}{\numberline {10.17}Mata}{69}{section.10.17}%
-\contentsline {chapter}{\numberline {11}Hasil Rapat}{71}{chapter.11}%
-\contentsline {section}{\numberline {11.1}2021}{71}{section.11.1}%
-\contentsline {subsection}{\numberline {11.1.1}September}{71}{subsection.11.1.1}%
-\contentsline {subsection}{\numberline {11.1.2}Oktober}{71}{subsection.11.1.2}%
-\contentsline {subsection}{\numberline {11.1.3}November}{71}{subsection.11.1.3}%
-\contentsline {subsection}{\numberline {11.1.4}Desember}{71}{subsection.11.1.4}%
-\contentsline {section}{\numberline {11.2}2022}{71}{section.11.2}%
-\contentsline {subsection}{\numberline {11.2.1}Januari}{71}{subsection.11.2.1}%
-\contentsline {subsection}{\numberline {11.2.2}Februari}{72}{subsection.11.2.2}%
-\contentsline {subsection}{\numberline {11.2.3}Maret}{72}{subsection.11.2.3}%
-\contentsline {subsection}{\numberline {11.2.4}April}{72}{subsection.11.2.4}%
-\contentsline {subsection}{\numberline {11.2.5}Mei}{72}{subsection.11.2.5}%
-\contentsline {subsection}{\numberline {11.2.6}Juni}{72}{subsection.11.2.6}%
-\contentsline {subsection}{\numberline {11.2.7}Juli}{72}{subsection.11.2.7}%
-\contentsline {subsection}{\numberline {11.2.8}Agustus}{72}{subsection.11.2.8}%
+\contentsline {subsection}{\numberline {9.10.2}Terapi Intensif}{56}{subsection.9.10.2}%
+\contentsline {subsection}{\numberline {9.10.3}Pain Control in ICU}{56}{subsection.9.10.3}%
+\contentsline {subsubsection}{\numberline {9.10.3.1}Opioid}{56}{subsubsection.9.10.3.1}%
+\contentsline {paragraph}{\numberline {9.10.3.1.1}Fentanil}{56}{paragraph.9.10.3.1.1}%
+\contentsline {paragraph}{\numberline {9.10.3.1.2}Morphine}{56}{paragraph.9.10.3.1.2}%
+\contentsline {subsubsection}{\numberline {9.10.3.2}Non-opioid (Opioid sparring effect)}{56}{subsubsection.9.10.3.2}%
+\contentsline {paragraph}{\numberline {9.10.3.2.1}Ketorolac}{56}{paragraph.9.10.3.2.1}%
+\contentsline {paragraph}{\numberline {9.10.3.2.2}Paracetamol/acetaminopen}{56}{paragraph.9.10.3.2.2}%
+\contentsline {subsection}{\numberline {9.10.4}Sedation in ICU}{57}{subsection.9.10.4}%
+\contentsline {subsubsection}{\numberline {9.10.4.1}Benzodiazepine}{57}{subsubsection.9.10.4.1}%
+\contentsline {paragraph}{\numberline {9.10.4.1.1}Midazolam}{57}{paragraph.9.10.4.1.1}%
+\contentsline {paragraph}{\numberline {9.10.4.1.2}Lorazepam}{57}{paragraph.9.10.4.1.2}%
+\contentsline {subsubsection}{\numberline {9.10.4.2}Propofol}{57}{subsubsection.9.10.4.2}%
+\contentsline {subsection}{\numberline {9.10.5}Intubasi (invasive ventilation)}{57}{subsection.9.10.5}%
+\contentsline {subsection}{\numberline {9.10.6}Ventilator}{57}{subsection.9.10.6}%
+\contentsline {section}{\numberline {9.11}Neurologi \& Bedah Saraf}{58}{section.9.11}%
+\contentsline {subsection}{\numberline {9.11.1}Vaskular}{58}{subsection.9.11.1}%
+\contentsline {subsubsection}{\numberline {9.11.1.1}Stroke non Hemorhagik (SNH)}{58}{subsubsection.9.11.1.1}%
+\contentsline {subsubsection}{\numberline {9.11.1.2}Stroke Hemorhagik (SH)}{58}{subsubsection.9.11.1.2}%
+\contentsline {subsection}{\numberline {9.11.2}Pain}{58}{subsection.9.11.2}%
+\contentsline {subsection}{\numberline {9.11.3}Trauma}{58}{subsection.9.11.3}%
+\contentsline {subsection}{\numberline {9.11.4}Malignancy}{58}{subsection.9.11.4}%
+\contentsline {subsection}{\numberline {9.11.5}Degenerative}{58}{subsection.9.11.5}%
+\contentsline {section}{\numberline {9.12}Obstetri \& Gineklogi}{58}{section.9.12}%
+\contentsline {subsection}{\numberline {9.12.1}Obstetri}{58}{subsection.9.12.1}%
+\contentsline {subsection}{\numberline {9.12.2}Ginekologi}{58}{subsection.9.12.2}%
+\contentsline {section}{\numberline {9.13}Dermatologi \& Venereologi}{59}{section.9.13}%
+\contentsline {subsection}{\numberline {9.13.1}Psoriasis}{59}{subsection.9.13.1}%
+\contentsline {subsection}{\numberline {9.13.2}Alergi}{59}{subsection.9.13.2}%
+\contentsline {section}{\numberline {9.14}THT}{59}{section.9.14}%
+\contentsline {subsection}{\numberline {9.14.1}Preoperaitve}{59}{subsection.9.14.1}%
+\contentsline {subsection}{\numberline {9.14.2}Corpus Alienum}{59}{subsection.9.14.2}%
+\contentsline {subsection}{\numberline {9.14.3}Infeksi}{59}{subsection.9.14.3}%
+\contentsline {subsection}{\numberline {9.14.4}Tumor}{59}{subsection.9.14.4}%
+\contentsline {section}{\numberline {9.15}Mata}{59}{section.9.15}%
+\contentsline {subsection}{\numberline {9.15.1}Preoperative}{59}{subsection.9.15.1}%
+\contentsline {subsection}{\numberline {9.15.2}Infeksi}{59}{subsection.9.15.2}%
+\contentsline {subsection}{\numberline {9.15.3}Corpus Alienum}{59}{subsection.9.15.3}%
+\contentsline {subsection}{\numberline {9.15.4}Trauma}{59}{subsection.9.15.4}%
+\contentsline {section}{\numberline {9.16}Psikiatri}{59}{section.9.16}%
+\contentsline {subsection}{\numberline {9.16.1}Raptus (mengamuk)}{59}{subsection.9.16.1}%
+\contentsline {section}{\numberline {9.17}Forensik \& Medikolegal}{59}{section.9.17}%
+\contentsline {subsection}{\numberline {9.17.1}DOA}{59}{subsection.9.17.1}%
+\contentsline {subsubsection}{\numberline {9.17.1.1}Penegakan Diagnosis Kematian}{59}{subsubsection.9.17.1.1}%
+\contentsline {section}{\numberline {9.18}Persiapan Pemeriksaan Penunjang}{63}{section.9.18}%
+\contentsline {subsection}{\numberline {9.18.1}Radiologi}{63}{subsection.9.18.1}%
+\contentsline {subsubsection}{\numberline {9.18.1.1}USG Abdomen Atas Bawah}{63}{subsubsection.9.18.1.1}%
+\contentsline {subsubsection}{\numberline {9.18.1.2}USG Urologi}{63}{subsubsection.9.18.1.2}%
+\contentsline {subsubsection}{\numberline {9.18.1.3}CT Stonografi}{63}{subsubsection.9.18.1.3}%
+\contentsline {subsection}{\numberline {9.18.2}Laboratorium}{63}{subsection.9.18.2}%
+\contentsline {subsubsection}{\numberline {9.18.2.1}Asam Urat}{63}{subsubsection.9.18.2.1}%
+\contentsline {subsubsection}{\numberline {9.18.2.2}Lipid Profil}{63}{subsubsection.9.18.2.2}%
+\contentsline {chapter}{\numberline {10}Informasi Obat Esensial UGD}{65}{chapter.10}%
+\contentsline {section}{\numberline {10.1}General}{65}{section.10.1}%
+\contentsline {subsection}{\numberline {10.1.1}Sistem Perhitungan Obat Parenteral}{65}{subsection.10.1.1}%
+\contentsline {section}{\numberline {10.2}Penyakit Dalam}{66}{section.10.2}%
+\contentsline {subsection}{\numberline {10.2.1}Parenteral}{66}{subsection.10.2.1}%
+\contentsline {subsubsection}{\numberline {10.2.1.1}Transfusi Darah}{66}{subsubsection.10.2.1.1}%
+\contentsline {paragraph}{\numberline {10.2.1.1.1}WB}{66}{paragraph.10.2.1.1.1}%
+\contentsline {paragraph}{\numberline {10.2.1.1.2}PRC}{66}{paragraph.10.2.1.1.2}%
+\contentsline {paragraph}{\numberline {10.2.1.1.3}FFP}{66}{paragraph.10.2.1.1.3}%
+\contentsline {paragraph}{\numberline {10.2.1.1.4}TC}{66}{paragraph.10.2.1.1.4}%
+\contentsline {subsubsection}{\numberline {10.2.1.2}Albumin}{66}{subsubsection.10.2.1.2}%
+\contentsline {subsubsection}{\numberline {10.2.1.3}Deksametason}{66}{subsubsection.10.2.1.3}%
+\contentsline {subsubsection}{\numberline {10.2.1.4}Insulin}{66}{subsubsection.10.2.1.4}%
+\contentsline {paragraph}{\numberline {10.2.1.4.1}DRIP KAD HHS}{66}{paragraph.10.2.1.4.1}%
+\contentsline {paragraph}{\numberline {10.2.1.4.2}Regulasi Preoperasi}{66}{paragraph.10.2.1.4.2}%
+\contentsline {paragraph}{\numberline {10.2.1.4.3}Hiperkalemia}{66}{paragraph.10.2.1.4.3}%
+\contentsline {paragraph}{\numberline {10.2.1.4.4}Dosis Maintenance}{66}{paragraph.10.2.1.4.4}%
+\contentsline {subsubsection}{\numberline {10.2.1.5}KCL}{67}{subsubsection.10.2.1.5}%
+\contentsline {subsubsection}{\numberline {10.2.1.6}Natrium Bikarbonat}{67}{subsubsection.10.2.1.6}%
+\contentsline {subsection}{\numberline {10.2.2}Oral}{67}{subsection.10.2.2}%
+\contentsline {section}{\numberline {10.3}Paru}{67}{section.10.3}%
+\contentsline {subsection}{\numberline {10.3.1}Parenteral}{67}{subsection.10.3.1}%
+\contentsline {subsubsection}{\numberline {10.3.1.1}Aminofilin}{67}{subsubsection.10.3.1.1}%
+\contentsline {subsection}{\numberline {10.3.2}Oral}{67}{subsection.10.3.2}%
+\contentsline {section}{\numberline {10.4}Pediatri}{67}{section.10.4}%
+\contentsline {section}{\numberline {10.5}Tablet}{67}{section.10.5}%
+\contentsline {section}{\numberline {10.6}Sirup}{67}{section.10.6}%
+\contentsline {section}{\numberline {10.7}Tetes}{67}{section.10.7}%
+\contentsline {section}{\numberline {10.8}Nebul}{67}{section.10.8}%
+\contentsline {section}{\numberline {10.9}Parenteral}{67}{section.10.9}%
+\contentsline {subsection}{\numberline {10.9.1}Antibiotik}{67}{subsection.10.9.1}%
+\contentsline {section}{\numberline {10.10}Kardiovaskular}{67}{section.10.10}%
+\contentsline {subsection}{\numberline {10.10.1}Parenteral}{67}{subsection.10.10.1}%
+\contentsline {subsubsection}{\numberline {10.10.1.1}Dopamin}{67}{subsubsection.10.10.1.1}%
+\contentsline {subsubsection}{\numberline {10.10.1.2}Dobutamin}{68}{subsubsection.10.10.1.2}%
+\contentsline {subsubsection}{\numberline {10.10.1.3}Norepinefrin/Vascon}{68}{subsubsection.10.10.1.3}%
+\contentsline {subsubsection}{\numberline {10.10.1.4}Epinefrine}{69}{subsubsection.10.10.1.4}%
+\contentsline {subsubsection}{\numberline {10.10.1.5}Nicardipin}{69}{subsubsection.10.10.1.5}%
+\contentsline {subsubsection}{\numberline {10.10.1.6}ISDN}{69}{subsubsection.10.10.1.6}%
+\contentsline {subsubsection}{\numberline {10.10.1.7}Nitrogliserin}{69}{subsubsection.10.10.1.7}%
+\contentsline {subsubsection}{\numberline {10.10.1.8}Furosemid}{69}{subsubsection.10.10.1.8}%
+\contentsline {subsubsection}{\numberline {10.10.1.9}Heparin}{69}{subsubsection.10.10.1.9}%
+\contentsline {subsubsection}{\numberline {10.10.1.10}LMWH}{70}{subsubsection.10.10.1.10}%
+\contentsline {subsubsection}{\numberline {10.10.1.11}Digoxin}{70}{subsubsection.10.10.1.11}%
+\contentsline {subsubsection}{\numberline {10.10.1.12}Adrenalin/Epinefrin}{70}{subsubsection.10.10.1.12}%
+\contentsline {subsubsection}{\numberline {10.10.1.13}Sulfas Atropin}{70}{subsubsection.10.10.1.13}%
+\contentsline {subsubsection}{\numberline {10.10.1.14}Amiodaron}{70}{subsubsection.10.10.1.14}%
+\contentsline {subsubsection}{\numberline {10.10.1.15}Lidokain}{70}{subsubsection.10.10.1.15}%
+\contentsline {subsubsection}{\numberline {10.10.1.16}Calcium Glukonas}{70}{subsubsection.10.10.1.16}%
+\contentsline {subsection}{\numberline {10.10.2}Oral Nitrogliserin}{70}{subsection.10.10.2}%
+\contentsline {section}{\numberline {10.11}Bedah}{70}{section.10.11}%
+\contentsline {section}{\numberline {10.12}Anestesi}{70}{section.10.12}%
+\contentsline {subsection}{\numberline {10.12.1}Analgetik}{70}{subsection.10.12.1}%
+\contentsline {subsubsection}{\numberline {10.12.1.1}Morfin}{70}{subsubsection.10.12.1.1}%
+\contentsline {subsubsection}{\numberline {10.12.1.2}Petidin}{70}{subsubsection.10.12.1.2}%
+\contentsline {subsubsection}{\numberline {10.12.1.3}Fentanil}{70}{subsubsection.10.12.1.3}%
+\contentsline {subsubsection}{\numberline {10.12.1.4}Ketorolac}{70}{subsubsection.10.12.1.4}%
+\contentsline {subsubsection}{\numberline {10.12.1.5}Tramadol}{70}{subsubsection.10.12.1.5}%
+\contentsline {subsection}{\numberline {10.12.2}Sedatif}{70}{subsection.10.12.2}%
+\contentsline {subsubsection}{\numberline {10.12.2.1}Diazepam}{70}{subsubsection.10.12.2.1}%
+\contentsline {subsubsection}{\numberline {10.12.2.2}Midazolam}{70}{subsubsection.10.12.2.2}%
+\contentsline {subsubsection}{\numberline {10.12.2.3}Propofol}{70}{subsubsection.10.12.2.3}%
+\contentsline {subsection}{\numberline {10.12.3}Muscle Relaxant}{70}{subsection.10.12.3}%
+\contentsline {section}{\numberline {10.13}Neurologi \& Neurosurgery}{71}{section.10.13}%
+\contentsline {subsection}{\numberline {10.13.1}Parenteral}{71}{subsection.10.13.1}%
+\contentsline {subsubsection}{\numberline {10.13.1.1}Manitol}{71}{subsubsection.10.13.1.1}%
+\contentsline {subsubsection}{\numberline {10.13.1.2}NaCl 3\%}{71}{subsubsection.10.13.1.2}%
+\contentsline {subsubsection}{\numberline {10.13.1.3}Fenitoin}{71}{subsubsection.10.13.1.3}%
+\contentsline {subsubsection}{\numberline {10.13.1.4}Fenobarbital}{71}{subsubsection.10.13.1.4}%
+\contentsline {subsubsection}{\numberline {10.13.1.5}Citicolin}{71}{subsubsection.10.13.1.5}%
+\contentsline {subsubsection}{\numberline {10.13.1.6}Piracetam}{71}{subsubsection.10.13.1.6}%
+\contentsline {subsection}{\numberline {10.13.2}Oral}{71}{subsection.10.13.2}%
+\contentsline {section}{\numberline {10.14}Obstetri \& Gineklogi}{71}{section.10.14}%
+\contentsline {subsection}{\numberline {10.14.1}Parenteral}{71}{subsection.10.14.1}%
+\contentsline {subsubsection}{\numberline {10.14.1.1}MgSO4}{71}{subsubsection.10.14.1.1}%
+\contentsline {subsection}{\numberline {10.14.2}Oral}{71}{subsection.10.14.2}%
+\contentsline {section}{\numberline {10.15}Dermatologi \& Venereologi}{71}{section.10.15}%
+\contentsline {section}{\numberline {10.16}THT}{71}{section.10.16}%
+\contentsline {section}{\numberline {10.17}Mata}{71}{section.10.17}%
+\contentsline {chapter}{\numberline {11}Hasil Rapat}{73}{chapter.11}%
+\contentsline {section}{\numberline {11.1}2021}{73}{section.11.1}%
+\contentsline {subsection}{\numberline {11.1.1}September}{73}{subsection.11.1.1}%
+\contentsline {subsection}{\numberline {11.1.2}Oktober}{73}{subsection.11.1.2}%
+\contentsline {subsection}{\numberline {11.1.3}November}{73}{subsection.11.1.3}%
+\contentsline {subsection}{\numberline {11.1.4}Desember}{73}{subsection.11.1.4}%
+\contentsline {section}{\numberline {11.2}2022}{73}{section.11.2}%
+\contentsline {subsection}{\numberline {11.2.1}Januari}{73}{subsection.11.2.1}%
+\contentsline {subsection}{\numberline {11.2.2}Februari}{74}{subsection.11.2.2}%
+\contentsline {subsection}{\numberline {11.2.3}Maret}{74}{subsection.11.2.3}%
+\contentsline {subsection}{\numberline {11.2.4}April}{74}{subsection.11.2.4}%
+\contentsline {subsection}{\numberline {11.2.5}Mei}{74}{subsection.11.2.5}%
+\contentsline {subsection}{\numberline {11.2.6}Juni}{74}{subsection.11.2.6}%
+\contentsline {subsection}{\numberline {11.2.7}Juli}{74}{subsection.11.2.7}%
+\contentsline {subsection}{\numberline {11.2.8}Agustus}{74}{subsection.11.2.8}%
