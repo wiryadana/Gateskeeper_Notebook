@@ -468,6 +468,28 @@ Obat onset lambat (15-20 min), durasi sedang (2-6 jam)
 * Dosis Maintenance (drip)
 5-50 mcg/kg/min
 
+### Glucose Control in Critically Ill
+
+#### Texas Protocol
+
+* Target 80 - 140 mg/dL
+* Pasien memiliki riwayat diabetes melitus
+
+Tata Cara:
+
+1. Siapkan infus insulin dengan syringe pump, 50 unit dalam 50 cc NS (1 unit/cc) atau jika tanpa syringe pump dengan NS 100 cc + 100 Unit Insulin. Insulin yang digunakan adalah insulin rapid/short acting (Aspart/glulisin) atau regular insulin.
+
+2. Hitung dosis awal dan bolus dengan membagi kadar glukosa dengan angka 100, bulatkan hasilnya ke 0,5 terdekat. Hasil perhitungan menjadi dosis Bolus IV dan laju infus unit/jam.
+
+**Contoh**
+
+*contoh 1*
+Jika glukosa awal 326 mg/dl, maka 326/100 = 3,26. Bulatkan ke 0,5 terdekat, menjadi 3,5 unit. Maka bolus 3,5 unit dan jalanan infus dengan laju 3,5 unit/jam. 
+
+*contoh 2*
+Jika glukosa awal 173 mg/dl, maka 174/100 = 1,74. Bulatkan ke 0,5 terdekat menjadi 1,5. Maka bolus 1,5 unit + infus 1,5 unit per jam.
+
+
 ### Intubasi (invasive ventilation)
 
 ### Ventilator
