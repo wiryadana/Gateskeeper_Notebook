@@ -27,6 +27,24 @@ Pada bagian ini akan diisi dengan pola tatalaksana sering diberikan pada pasien 
 
 DKA biasanya disertai hiperkalemia akibat shoft K keluar sel. Jika sebaliknya DKA dengan kalium normal atau hipokalemia, maka curigai adanya kekurangan total kalium tubuh.
 
+* Lakukan monitoring glukosa tiap 2 jam.
+
+**1. Resusitasi Cairan**
+
+*NaCl adalah pilihan utama cairan resusitasi*
+
+Penilaian status hidrasi:
+1. Hipotensi dan dehidrasi ringan
+
+
+2. Hipotensi ortostatik dan shock
+
+
+**2. Insulin Drip**
+**3. Koreksi Kalium**
+
+
+
 #### Hyperglicemic Hyperosmolar State
 
 ### Nefrologi
@@ -645,7 +663,7 @@ Tahap selanjutnya adalah melakukan konfirmasi ketiaadaan aktivitas otak dengan p
 
 3. Apneu test
 
-<img src="Death.jpg" width="430" style="display: block; margin: auto;" />
+<img src="Death.jpg" style="display: block; margin: auto;" />
 
 
 ## Persiapan Pemeriksaan Penunjang
