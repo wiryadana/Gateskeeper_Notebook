@@ -1,7 +1,7 @@
 sepatah-kata
 panduan
 narahubung
-akses-buku
+akses-dan-panduan-penggunaan-buku
 smf-dokter-umum
 struktur-dan-anggota-smf-dokter-umum
 koordinator-2022
