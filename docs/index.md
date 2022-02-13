@@ -39,6 +39,7 @@ Buku dapat diakses secara elektronik atau cetak. Pada buku elektronik terdapat f
 
 
 \begin{center}\includegraphics{index_files/figure-latex/qrcode_2-1} \end{center}
+
 ## Ucapan Terimakasih
 
 Buku ini, baik versi elektronik atau cetak, terwujud seluruhnya berkat teknologi informasi bebas dan "open source". Buku dibuat dengan Rmarkdown package yang digabungkan dengan program Bookdwown dan Knitr package. QR code dibuat dengan qrcode package. Semua program tersebut berjalan diatas bahasa pemrograman statistik R v4.1.2 pada Rstudio server dan sistem operasi GNU/Linux Ubuntu Server (versi 21.04). Semua "Source Code" serta versi elektronik buku dapat diakses pada repository Github.  
