@@ -27,13 +27,28 @@ Buku disusun oleh dr. Kadek Adit Wiryadana, pertanyaan dan saran dapat disampaik
 
 ## Akses Buku
 Buku dapat diakses secara pada versi elektronik atau cetak. 
+
 * Buku versi elektronik untuk web dapat diakses pada tautan berikut : https://wiryadana.github.io/Gateskeeper_Notebook/
-* Buku versi cetak dapat dilihat di UGD. Versi PDF buku cetak dapat diunduh di : 
+
+```{r qrcode, echo=FALSE, fig.align='center', fig.width=2, fig.height=2}
+library(qrcode)
+plot(qr_code("https://wiryadana.github.io/Gateskeeper_Notebook/"))
+```
+
+* Buku versi cetak dapat dilihat di UGD. Versi PDF buku cetak dapat diunduh di : https://github.com/wiryadana/Gateskeeper_Notebook/raw/master/docs/Pocket_book.pdf
+
+```{r qrcode_2, echo=FALSE, fig.align='center', fig.width=2, fig.height=2}
+plot(qr_code("https://github.com/wiryadana/Gateskeeper_Notebook/raw/master/docs/Pocket_book.pdf"))
+```
 
 
 ```{r include=FALSE}
 # automatically create a bib database for R packages
 knitr::write_bib(c(
-  .packages(), 'bookdown', 'knitr', 'rmarkdown'
+  .packages(), 'bookdown', 'knitr', 'rmarkdown', 'qrcode'
 ), 'packages.bib')
 ```
+
+
+
+

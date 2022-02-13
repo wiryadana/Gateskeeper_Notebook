@@ -27,8 +27,18 @@ Buku disusun oleh dr. Kadek Adit Wiryadana, pertanyaan dan saran dapat disampaik
 
 ## Akses Buku
 Buku dapat diakses secara pada versi elektronik atau cetak. 
+
 * Buku versi elektronik untuk web dapat diakses pada tautan berikut : https://wiryadana.github.io/Gateskeeper_Notebook/
-* Buku versi cetak dapat dilihat di UGD. Versi PDF buku cetak dapat diunduh di : 
+
+<img src="index_files/figure-html/qrcode-1.png" width="192" style="display: block; margin: auto;" />
+
+* Buku versi cetak dapat dilihat di UGD. Versi PDF buku cetak dapat diunduh di : https://github.com/wiryadana/Gateskeeper_Notebook/raw/master/docs/Pocket_book.pdf
+
+<img src="index_files/figure-html/qrcode_2-1.png" width="192" style="display: block; margin: auto;" />
+
+
+
+
 
 
 
