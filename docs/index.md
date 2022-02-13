@@ -1,7 +1,7 @@
 --- 
 title: "The Gatekeeper's Notebook"
 author: "Kadek Adit Wiryadana"
-date: "2022-01-07"
+date: "2022-02-13"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib, packages.bib]
@@ -23,7 +23,11 @@ Buku ini disusun untuk dokter Jaga Unit Gawat Darurat. Buku berisikan panduan um
 Buku ini hanya berisikan panduan umum. Buku tidak disusun dengan tujuan menjadi panduan komprehensif ataupun Cheatsheet. Tetap sesuaikan dengan kondisi dan selalu dengarkan kata hati.
 
 ## Narahubung
-Buku disusun oleh dr. Kadek Adit Wiryadana, pertanyaan dan saran dapat disampaikan pada ka.wiryadana@gmail.com 
+Buku disusun oleh dr. Kadek Adit Wiryadana, pertanyaan dan saran dapat disampaikan pada ka.wiryadana@gmail.com atau wiryadana@wiryadana.org
+
+## Akses Buku
+Buku dapat diakses secara pada versi elektronik atau cetak. Buku versi elektronik dapat diakses pada tautan berikut : https://wiryadana.github.io/Gateskeeper_Notebook/
+
 
 
 

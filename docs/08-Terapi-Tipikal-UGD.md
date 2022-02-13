@@ -663,7 +663,7 @@ Tahap selanjutnya adalah melakukan konfirmasi ketiaadaan aktivitas otak dengan p
 
 3. Apneu test
 
-<img src="Death.jpg" style="display: block; margin: auto;" />
+<img src="Death.jpg" width="430" style="display: block; margin: auto;" />
 
 
 ## Persiapan Pemeriksaan Penunjang
