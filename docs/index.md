@@ -1,7 +1,7 @@
 --- 
 title: "The Gatekeeper's Notebook"
 author: "Kadek Adit Wiryadana"
-date: "2022-02-13"
+date: "2022-02-14"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib, packages.bib, tambahan.bib]
@@ -33,13 +33,11 @@ Buku dapat diakses secara elektronik atau cetak. Pada buku elektronik terdapat f
 
 * Buku versi elektronik untuk web dapat diakses pada tautan berikut : https://wiryadana.github.io/Gateskeeper_Notebook/
 
-
-\begin{center}\includegraphics{index_files/figure-latex/qrcode-1} \end{center}
+<img src="index_files/figure-html/qrcode-1.png" width="192" style="display: block; margin: auto;" />
 
 * Buku versi cetak dapat dilihat di UGD. Versi PDF buku cetak dapat diunduh di : https://github.com/wiryadana/Gateskeeper_Notebook/raw/master/docs/Pocket_book.pdf
 
-
-\begin{center}\includegraphics{index_files/figure-latex/qrcode_2-1} \end{center}
+<img src="index_files/figure-html/qrcode_2-1.png" width="192" style="display: block; margin: auto;" />
 
 ## Ucapan Terimakasih
 
