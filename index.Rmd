@@ -13,6 +13,7 @@ description: |
 biblio-style: apalike
 csl: chicago-fullnote-bibliography.csl
 ---
+\renewcommand\chaptername{BAB}
 
 # Sepatah Kata
 
