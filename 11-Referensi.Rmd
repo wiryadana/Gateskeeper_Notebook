@@ -1,5 +1,7 @@
 `r if (knitr::is_html_output()) '
 # References {-}
+
+
 '`
 [1]: https://www.ahajournals.org/doi/full/10.1161/circulationaha.110.970905
 
