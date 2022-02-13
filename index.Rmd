@@ -16,7 +16,7 @@ csl: chicago-fullnote-bibliography.csl
 
 # Sepatah Kata
 
-Dokter jaga Unit Gawat Darurat merupakan tugas utama dokter umum di fasilitas pelayanan kesehatan tingkat lanjut. Pada pelaksanaanya sering kali tidak ada panduan awal, hanya ilmu dengar yang ditransfer antar telinga. Tidak jarang akan terjadi kekeliruan sehingga menghambat jalannya pelayanan kesehatan. Buku ini khusus disusun untuk memberikan panduan bagi dokter jaga. Buku berisikan panduan umum berdasarkan pengalaman penulis beserta hasil diskusi dengan teman sejawat dan konsultasi dengan dokter Spesialis dan Managemen. Penulis berharap buku ini dapat membantu dokter jaga baru dalam menyesuaikan diri terhadap lingkungan dan alur kerja di Rumah Sakit kami. 
+Dokter jaga Unit Gawat Darurat merupakan penjaga pintu gerbang utama di fasilitas pelayanan kesehatan tingkat lanjut. Pada pelaksanaanya sering kali disertai ketiadaan panduan awal dan ketidaklengkapan SOP sehingga hanya mengandalkan ilmu dengar yang ditransfer antar telinga. Tidak jarang akan terjadi kekeliruan sehingga menghambat jalannya pelayanan kesehatan. Buku ini khusus disusun untuk memberikan panduan umum dokter jaga berdasarkan pengalaman penulis beserta hasil diskusi dengan teman sejawat dan konsultasi dengan dokter Spesialis dan Manajemen. Penulis berharap buku ini dapat membantu dokter jaga baru dalam menyesuaikan diri terhadap lingkungan dan alur kerja di Rumah Sakit kami. 
 
 ## Panduan 
 
@@ -28,7 +28,7 @@ Buku disusun atas dasar niat penulis untuk menyebarluaskan informasi antar dokte
 Buku disusun oleh dr. Kadek Adit Wiryadana. Pertanyaan dan saran dapat disampaikan secara lisan atau tulisan melalui email ke ka.wiryadana@gmail.com atau wiryadana@wiryadana.org.
 
 ## Akses dan Panduan Penggunaan Buku
-Buku dapat diakses secara elektronik atau cetak. Pada buku elektronik terdapat fasilitas "search" pada panel kiri bagian atas yang berfungsi mempermudah navigasi. Akurasi "Search" dapat mencapai tingkat Bab, subbab dan kata/kalimat di seluruh buku. Panel sisi kiri merupakan Bab Buku (Daftar isi) dan pada panel sisi kanan merupakan daftar subbab dan hierarkinya pada Bab yang dipilih. Gunakan panel sisi kiri dan kanan untuk mempermudah navigasi isi buku. Pada buku versi PDF, terdapat "bookmark" yang telah disesuaikan dengan Bab buku.
+Buku dapat diakses secara elektronik atau cetak. Pada buku elektronik terdapat fasilitas navigasi. Panel sisi kiri merupakan Bab Buku (Daftar isi) dan pada panel sisi kanan merupakan daftar subbab dan hierarkinya pada Bab yang dipilih. Gunakan panel sisi kiri dan kanan untuk mempermudah navigasi isi buku. Terdapat fasilitas "search" pada panel kiri bagian atas. Akurasi "Search" dapat mencapai tingkat Bab, subbab dan kata/kalimat di seluruh buku.  Pada buku versi PDF, terdapat "bookmark" yang telah disesuaikan dengan Bab buku.
 
 * Buku versi elektronik untuk web dapat diakses pada tautan berikut : https://wiryadana.github.io/Gateskeeper_Notebook/
 

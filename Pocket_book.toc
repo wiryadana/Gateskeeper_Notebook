@@ -1,7 +1,7 @@
 \contentsline {chapter}{\numberline {1}Sepatah Kata}{7}{chapter.1}%
 \contentsline {section}{\numberline {1.1}Panduan}{7}{section.1.1}%
 \contentsline {section}{\numberline {1.2}Narahubung}{7}{section.1.2}%
-\contentsline {section}{\numberline {1.3}Akses Buku}{7}{section.1.3}%
+\contentsline {section}{\numberline {1.3}Akses dan Panduan Penggunaan Buku}{8}{section.1.3}%
 \contentsline {chapter}{\numberline {2}SMF Dokter Umum}{9}{chapter.2}%
 \contentsline {section}{\numberline {2.1}Struktur dan Anggota SMF Dokter Umum}{9}{section.2.1}%
 \contentsline {subsection}{\numberline {2.1.1}Koordinator (2022)}{9}{subsection.2.1.1}%
