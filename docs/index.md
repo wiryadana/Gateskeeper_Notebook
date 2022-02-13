@@ -26,8 +26,9 @@ Buku ini hanya berisikan panduan umum. Buku tidak disusun dengan tujuan menjadi 
 Buku disusun oleh dr. Kadek Adit Wiryadana, pertanyaan dan saran dapat disampaikan pada ka.wiryadana@gmail.com atau wiryadana@wiryadana.org
 
 ## Akses Buku
-Buku dapat diakses secara pada versi elektronik atau cetak. Buku versi elektronik dapat diakses pada tautan berikut : https://wiryadana.github.io/Gateskeeper_Notebook/
-
+Buku dapat diakses secara pada versi elektronik atau cetak. 
+* Buku versi elektronik untuk web dapat diakses pada tautan berikut : https://wiryadana.github.io/Gateskeeper_Notebook/
+* Buku versi cetak dapat dilihat di UGD. Versi PDF buku cetak dapat diunduh di : 
 
 
 

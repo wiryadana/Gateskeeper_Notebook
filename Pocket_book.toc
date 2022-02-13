@@ -1,6 +1,7 @@
 \contentsline {chapter}{\numberline {1}Sepatah Kata}{7}{chapter.1}%
 \contentsline {section}{\numberline {1.1}Panduan}{7}{section.1.1}%
 \contentsline {section}{\numberline {1.2}Narahubung}{7}{section.1.2}%
+\contentsline {section}{\numberline {1.3}Akses Buku}{7}{section.1.3}%
 \contentsline {chapter}{\numberline {2}SMF Dokter Umum}{9}{chapter.2}%
 \contentsline {section}{\numberline {2.1}Struktur dan Anggota SMF Dokter Umum}{9}{section.2.1}%
 \contentsline {subsection}{\numberline {2.1.1}Koordinator (2022)}{9}{subsection.2.1.1}%
@@ -195,7 +196,7 @@
 \contentsline {subsection}{\numberline {9.2.5}Gastroenterologi \& Hepatologi}{53}{subsection.9.2.5}%
 \contentsline {subsection}{\numberline {9.2.6}Kardiovaskular}{53}{subsection.9.2.6}%
 \contentsline {subsubsection}{\numberline {9.2.6.1}Edema Paru Akut (Cardiogenic or Renal Cause)}{53}{subsubsection.9.2.6.1}%
-\contentsline {subsection}{\numberline {9.2.7}Imunologi}{53}{subsection.9.2.7}%
+\contentsline {subsection}{\numberline {9.2.7}Imunologi}{54}{subsection.9.2.7}%
 \contentsline {section}{\numberline {9.3}Paru}{54}{section.9.3}%
 \contentsline {subsection}{\numberline {9.3.1}Infeksi}{54}{subsection.9.3.1}%
 \contentsline {subsubsection}{\numberline {9.3.1.1}Tuberculosis}{54}{subsubsection.9.3.1.1}%
@@ -212,8 +213,8 @@
 \contentsline {subsection}{\numberline {9.4.2}Infeksi}{54}{subsection.9.4.2}%
 \contentsline {subsection}{\numberline {9.4.3}Pulmonologi}{54}{subsection.9.4.3}%
 \contentsline {subsubsection}{\numberline {9.4.3.1}Bronkopneumonia}{54}{subsubsection.9.4.3.1}%
-\contentsline {subsection}{\numberline {9.4.4}Gastroenterologi \& Hepatologi}{54}{subsection.9.4.4}%
-\contentsline {subsubsection}{\numberline {9.4.4.1}Diare Akut}{54}{subsubsection.9.4.4.1}%
+\contentsline {subsection}{\numberline {9.4.4}Gastroenterologi \& Hepatologi}{55}{subsection.9.4.4}%
+\contentsline {subsubsection}{\numberline {9.4.4.1}Diare Akut}{55}{subsubsection.9.4.4.1}%
 \contentsline {section}{\numberline {9.5}Kardiovaskular}{55}{section.9.5}%
 \contentsline {subsection}{\numberline {9.5.1}Pre-operative}{55}{subsection.9.5.1}%
 \contentsline {subsection}{\numberline {9.5.2}Iskemia}{55}{subsection.9.5.2}%
@@ -221,12 +222,12 @@
 \contentsline {subsection}{\numberline {9.5.4}Heart Failure}{55}{subsection.9.5.4}%
 \contentsline {subsection}{\numberline {9.5.5}Vaskular Perifer}{55}{subsection.9.5.5}%
 \contentsline {section}{\numberline {9.6}Bedah Umum}{55}{section.9.6}%
-\contentsline {section}{\numberline {9.7}Bedah Digestif}{55}{section.9.7}%
-\contentsline {subsection}{\numberline {9.7.1}Obstruksi}{55}{subsection.9.7.1}%
-\contentsline {section}{\numberline {9.8}Bedah Urologi}{55}{section.9.8}%
-\contentsline {subsection}{\numberline {9.8.1}Infeksi}{55}{subsection.9.8.1}%
-\contentsline {subsection}{\numberline {9.8.2}Obstruksi}{55}{subsection.9.8.2}%
-\contentsline {subsection}{\numberline {9.8.3}Malignancy}{55}{subsection.9.8.3}%
+\contentsline {section}{\numberline {9.7}Bedah Digestif}{56}{section.9.7}%
+\contentsline {subsection}{\numberline {9.7.1}Obstruksi}{56}{subsection.9.7.1}%
+\contentsline {section}{\numberline {9.8}Bedah Urologi}{56}{section.9.8}%
+\contentsline {subsection}{\numberline {9.8.1}Infeksi}{56}{subsection.9.8.1}%
+\contentsline {subsection}{\numberline {9.8.2}Obstruksi}{56}{subsection.9.8.2}%
+\contentsline {subsection}{\numberline {9.8.3}Malignancy}{56}{subsection.9.8.3}%
 \contentsline {section}{\numberline {9.9}Bedah Ortopedi}{56}{section.9.9}%
 \contentsline {subsection}{\numberline {9.9.1}Preoperative}{56}{subsection.9.9.1}%
 \contentsline {subsection}{\numberline {9.9.2}Trauma}{56}{subsection.9.9.2}%
@@ -237,54 +238,56 @@
 \contentsline {subsection}{\numberline {9.10.3}Pain Control in ICU}{56}{subsection.9.10.3}%
 \contentsline {subsubsection}{\numberline {9.10.3.1}Opioid}{56}{subsubsection.9.10.3.1}%
 \contentsline {paragraph}{\numberline {9.10.3.1.1}Fentanil}{56}{paragraph.9.10.3.1.1}%
-\contentsline {paragraph}{\numberline {9.10.3.1.2}Morphine}{56}{paragraph.9.10.3.1.2}%
-\contentsline {subsubsection}{\numberline {9.10.3.2}Non-opioid (Opioid sparring effect)}{56}{subsubsection.9.10.3.2}%
-\contentsline {paragraph}{\numberline {9.10.3.2.1}Ketorolac}{56}{paragraph.9.10.3.2.1}%
-\contentsline {paragraph}{\numberline {9.10.3.2.2}Paracetamol/acetaminopen}{56}{paragraph.9.10.3.2.2}%
+\contentsline {paragraph}{\numberline {9.10.3.1.2}Morphine}{57}{paragraph.9.10.3.1.2}%
+\contentsline {subsubsection}{\numberline {9.10.3.2}Non-opioid (Opioid sparring effect)}{57}{subsubsection.9.10.3.2}%
+\contentsline {paragraph}{\numberline {9.10.3.2.1}Ketorolac}{57}{paragraph.9.10.3.2.1}%
+\contentsline {paragraph}{\numberline {9.10.3.2.2}Paracetamol/acetaminopen}{57}{paragraph.9.10.3.2.2}%
 \contentsline {subsection}{\numberline {9.10.4}Sedation in ICU}{57}{subsection.9.10.4}%
 \contentsline {subsubsection}{\numberline {9.10.4.1}Benzodiazepine}{57}{subsubsection.9.10.4.1}%
 \contentsline {paragraph}{\numberline {9.10.4.1.1}Midazolam}{57}{paragraph.9.10.4.1.1}%
 \contentsline {paragraph}{\numberline {9.10.4.1.2}Lorazepam}{57}{paragraph.9.10.4.1.2}%
 \contentsline {subsubsection}{\numberline {9.10.4.2}Propofol}{57}{subsubsection.9.10.4.2}%
-\contentsline {subsection}{\numberline {9.10.5}Intubasi (invasive ventilation)}{57}{subsection.9.10.5}%
-\contentsline {subsection}{\numberline {9.10.6}Ventilator}{57}{subsection.9.10.6}%
+\contentsline {subsection}{\numberline {9.10.5}Glucose Control in Critically Ill}{58}{subsection.9.10.5}%
+\contentsline {subsubsection}{\numberline {9.10.5.1}Texas Protocol}{58}{subsubsection.9.10.5.1}%
+\contentsline {subsection}{\numberline {9.10.6}Intubasi (invasive ventilation)}{58}{subsection.9.10.6}%
+\contentsline {subsection}{\numberline {9.10.7}Ventilator}{58}{subsection.9.10.7}%
 \contentsline {section}{\numberline {9.11}Neurologi \& Bedah Saraf}{58}{section.9.11}%
 \contentsline {subsection}{\numberline {9.11.1}Vaskular}{58}{subsection.9.11.1}%
 \contentsline {subsubsection}{\numberline {9.11.1.1}Stroke non Hemorhagik (SNH)}{58}{subsubsection.9.11.1.1}%
-\contentsline {subsubsection}{\numberline {9.11.1.2}Stroke Hemorhagik (SH)}{58}{subsubsection.9.11.1.2}%
-\contentsline {subsection}{\numberline {9.11.2}Pain}{58}{subsection.9.11.2}%
-\contentsline {subsection}{\numberline {9.11.3}Trauma}{58}{subsection.9.11.3}%
-\contentsline {subsection}{\numberline {9.11.4}Malignancy}{58}{subsection.9.11.4}%
-\contentsline {subsection}{\numberline {9.11.5}Degenerative}{58}{subsection.9.11.5}%
-\contentsline {section}{\numberline {9.12}Obstetri \& Gineklogi}{58}{section.9.12}%
-\contentsline {subsection}{\numberline {9.12.1}Obstetri}{58}{subsection.9.12.1}%
-\contentsline {subsection}{\numberline {9.12.2}Ginekologi}{58}{subsection.9.12.2}%
+\contentsline {subsubsection}{\numberline {9.11.1.2}Stroke Hemorhagik (SH)}{59}{subsubsection.9.11.1.2}%
+\contentsline {subsection}{\numberline {9.11.2}Pain}{59}{subsection.9.11.2}%
+\contentsline {subsection}{\numberline {9.11.3}Trauma}{59}{subsection.9.11.3}%
+\contentsline {subsection}{\numberline {9.11.4}Malignancy}{59}{subsection.9.11.4}%
+\contentsline {subsection}{\numberline {9.11.5}Degenerative}{59}{subsection.9.11.5}%
+\contentsline {section}{\numberline {9.12}Obstetri \& Gineklogi}{59}{section.9.12}%
+\contentsline {subsection}{\numberline {9.12.1}Obstetri}{59}{subsection.9.12.1}%
+\contentsline {subsection}{\numberline {9.12.2}Ginekologi}{59}{subsection.9.12.2}%
 \contentsline {section}{\numberline {9.13}Dermatologi \& Venereologi}{59}{section.9.13}%
 \contentsline {subsection}{\numberline {9.13.1}Psoriasis}{59}{subsection.9.13.1}%
 \contentsline {subsection}{\numberline {9.13.2}Alergi}{59}{subsection.9.13.2}%
-\contentsline {section}{\numberline {9.14}THT}{59}{section.9.14}%
-\contentsline {subsection}{\numberline {9.14.1}Preoperaitve}{59}{subsection.9.14.1}%
-\contentsline {subsection}{\numberline {9.14.2}Corpus Alienum}{59}{subsection.9.14.2}%
-\contentsline {subsection}{\numberline {9.14.3}Infeksi}{59}{subsection.9.14.3}%
-\contentsline {subsection}{\numberline {9.14.4}Tumor}{59}{subsection.9.14.4}%
-\contentsline {section}{\numberline {9.15}Mata}{59}{section.9.15}%
-\contentsline {subsection}{\numberline {9.15.1}Preoperative}{59}{subsection.9.15.1}%
-\contentsline {subsection}{\numberline {9.15.2}Infeksi}{59}{subsection.9.15.2}%
-\contentsline {subsection}{\numberline {9.15.3}Corpus Alienum}{59}{subsection.9.15.3}%
-\contentsline {subsection}{\numberline {9.15.4}Trauma}{59}{subsection.9.15.4}%
-\contentsline {section}{\numberline {9.16}Psikiatri}{59}{section.9.16}%
-\contentsline {subsection}{\numberline {9.16.1}Raptus (mengamuk)}{59}{subsection.9.16.1}%
-\contentsline {section}{\numberline {9.17}Forensik \& Medikolegal}{59}{section.9.17}%
-\contentsline {subsection}{\numberline {9.17.1}DOA}{59}{subsection.9.17.1}%
-\contentsline {subsubsection}{\numberline {9.17.1.1}Penegakan Diagnosis Kematian}{59}{subsubsection.9.17.1.1}%
-\contentsline {section}{\numberline {9.18}Persiapan Pemeriksaan Penunjang}{63}{section.9.18}%
-\contentsline {subsection}{\numberline {9.18.1}Radiologi}{63}{subsection.9.18.1}%
-\contentsline {subsubsection}{\numberline {9.18.1.1}USG Abdomen Atas Bawah}{63}{subsubsection.9.18.1.1}%
-\contentsline {subsubsection}{\numberline {9.18.1.2}USG Urologi}{63}{subsubsection.9.18.1.2}%
-\contentsline {subsubsection}{\numberline {9.18.1.3}CT Stonografi}{63}{subsubsection.9.18.1.3}%
-\contentsline {subsection}{\numberline {9.18.2}Laboratorium}{63}{subsection.9.18.2}%
-\contentsline {subsubsection}{\numberline {9.18.2.1}Asam Urat}{63}{subsubsection.9.18.2.1}%
-\contentsline {subsubsection}{\numberline {9.18.2.2}Lipid Profil}{63}{subsubsection.9.18.2.2}%
+\contentsline {section}{\numberline {9.14}THT}{60}{section.9.14}%
+\contentsline {subsection}{\numberline {9.14.1}Preoperaitve}{60}{subsection.9.14.1}%
+\contentsline {subsection}{\numberline {9.14.2}Corpus Alienum}{60}{subsection.9.14.2}%
+\contentsline {subsection}{\numberline {9.14.3}Infeksi}{60}{subsection.9.14.3}%
+\contentsline {subsection}{\numberline {9.14.4}Tumor}{60}{subsection.9.14.4}%
+\contentsline {section}{\numberline {9.15}Mata}{60}{section.9.15}%
+\contentsline {subsection}{\numberline {9.15.1}Preoperative}{60}{subsection.9.15.1}%
+\contentsline {subsection}{\numberline {9.15.2}Infeksi}{60}{subsection.9.15.2}%
+\contentsline {subsection}{\numberline {9.15.3}Corpus Alienum}{60}{subsection.9.15.3}%
+\contentsline {subsection}{\numberline {9.15.4}Trauma}{60}{subsection.9.15.4}%
+\contentsline {section}{\numberline {9.16}Psikiatri}{60}{section.9.16}%
+\contentsline {subsection}{\numberline {9.16.1}Raptus (mengamuk)}{60}{subsection.9.16.1}%
+\contentsline {section}{\numberline {9.17}Forensik \& Medikolegal}{60}{section.9.17}%
+\contentsline {subsection}{\numberline {9.17.1}DOA}{60}{subsection.9.17.1}%
+\contentsline {subsubsection}{\numberline {9.17.1.1}Penegakan Diagnosis Kematian}{60}{subsubsection.9.17.1.1}%
+\contentsline {section}{\numberline {9.18}Persiapan Pemeriksaan Penunjang}{64}{section.9.18}%
+\contentsline {subsection}{\numberline {9.18.1}Radiologi}{64}{subsection.9.18.1}%
+\contentsline {subsubsection}{\numberline {9.18.1.1}USG Abdomen Atas Bawah}{64}{subsubsection.9.18.1.1}%
+\contentsline {subsubsection}{\numberline {9.18.1.2}USG Urologi}{64}{subsubsection.9.18.1.2}%
+\contentsline {subsubsection}{\numberline {9.18.1.3}CT Stonografi}{64}{subsubsection.9.18.1.3}%
+\contentsline {subsection}{\numberline {9.18.2}Laboratorium}{64}{subsection.9.18.2}%
+\contentsline {subsubsection}{\numberline {9.18.2.1}Asam Urat}{64}{subsubsection.9.18.2.1}%
+\contentsline {subsubsection}{\numberline {9.18.2.2}Lipid Profil}{64}{subsubsection.9.18.2.2}%
 \contentsline {chapter}{\numberline {10}Informasi Obat Esensial UGD}{65}{chapter.10}%
 \contentsline {section}{\numberline {10.1}General}{65}{section.10.1}%
 \contentsline {subsection}{\numberline {10.1.1}Sistem Perhitungan Obat Parenteral}{65}{subsection.10.1.1}%
