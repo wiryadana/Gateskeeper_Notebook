@@ -42,12 +42,14 @@ plot(qr_code("https://wiryadana.github.io/Gateskeeper_Notebook/"))
 ```{r qrcode_2, echo=FALSE, fig.align='center', fig.width=2, fig.height=2}
 plot(qr_code("https://github.com/wiryadana/Gateskeeper_Notebook/raw/master/docs/Pocket_book.pdf"))
 ```
+## Ucapan Terimakasih
 
+Buku ini, baik versi elektronik atau cetak, terwujud seluruhnya berkat teknologi informasi bebas dan "open source". Buku dibuat dengan Rmarkdown package yang digabungkan dengan program Bookdwown dan Knitr package. QR code dibuat dengan qrcode package. Semua program tersebut berjalan diatas bahasa pemrograman statistik R v4.1.2 pada Rstudio server dan sistem operasi GNU/Linux Ubuntu Server (versi 21.04). Semua "Source Code" serta versi elektronik buku dapat diakses pada repository Github.  
 
 ```{r include=FALSE}
 # automatically create a bib database for R packages
 knitr::write_bib(c(
-  .packages(), 'bookdown', 'knitr', 'rmarkdown', 'qrcode'
+  .packages(), 'bookdown', 'knitr', 'rmarkdown', 'qrcode', 'base'
 ), 'packages.bib')
 ```
 
