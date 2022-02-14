@@ -1,7 +1,7 @@
 --- 
 title: "The Gatekeeper's Notebook"
 author: "Kadek Adit Wiryadana"
-date: "2022-02-15"
+date: "Singaraja, 15 February 2022"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib, packages.bib, tambahan.bib]
@@ -14,9 +14,6 @@ biblio-style: apalike
 csl: chicago-fullnote-bibliography.csl
 ---
 \renewcommand\chaptername{BAB}
-
-\addto{\captionsenglish}{\renewcommand*{\contentsname}{Table of contents}}
-
 
 # Sepatah Kata
 
