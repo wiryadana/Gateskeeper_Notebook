@@ -34,11 +34,10 @@ DKA biasanya disertai hiperkalemia akibat shoft K keluar sel. Jika sebaliknya DK
 *NaCl adalah pilihan utama cairan resusitasi*
 
 Penilaian status hidrasi:
+
 1. Hipotensi dan dehidrasi ringan
 
-
 2. Hipotensi ortostatik dan shock
-
 
 **2. Insulin Drip**
 **3. Koreksi Kalium**
@@ -418,7 +417,7 @@ Na3% = $\frac{25.8 ml}{1 jam} = 8,6 tpm$
 ### Preoperative
 
 ### Terapi Intensif
-### Pain Control in ICU
+### Pain Control in ICU [@marino_2015]
 
 * Target BPS $\leq$ 5
 
@@ -489,6 +488,8 @@ Obat onset lambat (15-20 min), durasi sedang (2-6 jam)
 ### Glucose Control in Critically Ill
 
 #### Texas Protocol
+
+Regulasi kadar glukosa dengan drip Insulin intravena sesuai dengan protokol Texas [@texas_2007].
 
 * Target 80 - 140 mg/dL
 * Pasien memiliki riwayat diabetes melitus
@@ -617,7 +618,7 @@ Jika glukosa awal 173 mg/dl, maka 174/100 = 1,74. Bulatkan ke 0,5 terdekat menja
 
 **Tanda Klinis Kematian:**
 
-Penentian kematian berdasarkan tanda klinis kematian dilakukan jika tidak ditemukan tanda pasti kematian. Tanda klinis kematian dapat ditentukan dari 2 pintu masuk, yaitu *Cardiocirculatory Death* dan *Neurological Death* berdasarkan pedoman [WH0][2].
+Penentian kematian berdasarkan tanda klinis kematian dilakukan jika tidak ditemukan tanda pasti kematian. Tanda klinis kematian dapat ditentukan dari 2 pintu masuk, yaitu *Cardiocirculatory Death* dan *Neurological Death* berdasarkan pedoman WHO [@who_clinical_2014].
 
 **A. Circulatory Death:**
 

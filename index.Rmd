@@ -41,7 +41,7 @@ plot(qr_code("https://wiryadana.github.io/Gateskeeper_Notebook/"))
 * Buku versi cetak dapat dilihat di UGD. Versi PDF buku cetak dapat diunduh di : https://github.com/wiryadana/Gateskeeper_Notebook/raw/master/docs/Pocket_book.pdf
 
 ```{r qrcode_2, echo=FALSE, fig.align='center', fig.width=2, fig.height=2}
-plot(qr_code("https://github.com/wiryadana/Gateskeeper_Notebook/raw/master/docs/Pocket_book.pdf"))
+plot(qr_code("https://github.com/wiryadana/Gateskeeper_Notebook/raw/master/docs/The-Gatekeeper-s-Notebook.pdf"))
 ```
 
 ## Ucapan Terimakasih
